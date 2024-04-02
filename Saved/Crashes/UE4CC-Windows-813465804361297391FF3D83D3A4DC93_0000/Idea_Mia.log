@@ -1,0 +1,1261 @@
+﻿Log file open, 03/26/18 19:19:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Idea_Mia
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(511564135) SRandInit(511564135).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 17.099632
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.26-17.19.07:791][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.26-17.19.07:791][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.26-17.19.07:926][  0]LogInit: Computer: DESKTOP-A2FF988
+[2018.03.26-17.19.07:926][  0]LogInit: User: Edo
+[2018.03.26-17.19.07:926][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.26-17.19.07:926][  0]LogInit: High frequency timer resolution =2.343750 MHz
+[2018.03.26-17.19.07:926][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.03.26-17.19.07:926][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.26-17.19.07:926][  0]LogMemory: Process Physical Memory: 272.85 MB used, 272.85 MB peak
+[2018.03.26-17.19.07:926][  0]LogMemory: Process Virtual Memory: 273.39 MB used, 273.39 MB peak
+[2018.03.26-17.19.07:926][  0]LogMemory: Physical Memory: 2135.84 MB used,  1856.75 MB free, 3992.59 MB total
+[2018.03.26-17.19.07:926][  0]LogMemory: Virtual Memory: 682.20 MB used,  1856.75 MB free, 134217728.00 MB total
+[2018.03.26-17.19.08:815][  0]LogInit: Using OS detected language (it-IT).
+[2018.03.26-17.19.08:815][  0]LogInit: Using OS detected locale (it-IT).
+[2018.03.26-17.19.09:106][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the language.
+[2018.03.26-17.19.09:106][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the locale.
+[2018.03.26-17.19.09:904][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.26-17.19.15:779][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.26-17.19.15:791][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.03.26-17.19.15:791][  0]LogD3D11RHI:       128/0/1996 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.03.26-17.19.15:795][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.26-17.19.15:795][  0]LogD3D11RHI:       0/0/1996 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.26-17.19.15:795][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.26-17.19.15:801][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.26-17.19.15:801][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.26-17.19.15:801][  0]LogWindows: EnumDisplayDevices:
+[2018.03.26-17.19.15:801][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.03.26-17.19.15:801][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.03.26-17.19.15:801][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.03.26-17.19.15:802][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.26-17.19.15:802][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2018.03.26-17.19.15:802][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.26-17.19.15:802][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.26-17.19.15:802][  0]LogRHI: Texture pool is 788 MB (70% of 1126 MB)
+[2018.03.26-17.19.15:822][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.26-17.19.16:108][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.03.26-17.19.16:186][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Users/Edo/Desktop/Idea_Mia/Intermediate/Shaders/WorkingDirectory/5636/).
+[2018.03.26-17.19.16:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edo/AppData/Local/Temp/UnrealShaderWorkingDir/9171349946E1A91B647DF7AA80AA633F/'.
+[2018.03.26-17.19.16:203][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.26-17.19.22:365][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.26-17.19.22:424][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.26-17.19.22:481][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.26-17.19.22:540][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.26-17.19.22:631][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.26-17.19.22:689][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.26-17.19.22:748][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.26-17.19.22:806][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.26-17.19.22:856][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.26-17.19.22:919][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.26-17.19.22:978][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.26-17.19.23:034][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.26-17.19.23:095][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.26-17.19.23:152][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.26-17.19.23:265][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.26-17.19.23:265][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.26-17.19.23:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.26-17.19.23:415][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.26-17.19.23:595][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.26-17.19.23:625][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.26-17.19.23:682][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.26-17.19.23:744][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.26-17.19.23:799][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.26-17.19.23:860][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.26-17.19.23:860][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.26-17.19.24:998][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.26-17.19.25:812][  0]LogDerivedDataCache: Loaded boot cache 0.79s 78MB C:/Users/Edo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.26-17.19.25:812][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Edo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.26-17.19.25:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Edo/Desktop/Idea_Mia/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.26-17.19.25:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.26-17.19.25:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Edo/Desktop/Idea_Mia/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.26-17.19.25:813][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.26-17.19.25:893][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.26-17.19.25:935][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.26-17.19.25:981][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.26-17.19.26:038][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.26-17.19.26:131][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.26-17.19.26:134][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.26-17.19.31:044][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.26-17.19.33:010][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.26-17.19.33:060][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.26-17.19.33:060][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.26-17.19.33:061][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.26-17.19.33:061][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.26-17.19.33:061][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.26-17.19.33:505][  0]LogNetVersion: Idea_Mia , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1072400568)
+[2018.03.26-17.19.35:790][  0]LogAssetRegistry: FAssetRegistry took 0.0332 seconds to start up
+[2018.03.26-17.19.42:484][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.140938 seconds
+[2018.03.26-17.19.42:533][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.26-17.19.42:533][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.26-17.19.42:533][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.26-17.19.42:627][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.26-17.19.57:522][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.26-17.19.57:573][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.26-17.19.59:733][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.26-17.20.01:092][  0]SourceControl: Source control is disabled
+[2018.03.26-17.20.01:102][  0]SourceControl: Source control is disabled
+[2018.03.26-17.20.01:221][  0]SourceControl: Source control is disabled
+[2018.03.26-17.20.01:314][  0]SourceControl: Source control is disabled
+[2018.03.26-17.20.02:806][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.26-17.20.03:217][  0]LogOcInput: OculusInput pre-init called
+[2018.03.26-17.20.04:021][  0]LogEngine: Initializing Engine...
+[2018.03.26-17.20.04:048][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.26-17.20.05:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.26-17.20.05:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.26-17.20.05:798][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.26-17.20.05:892][  0]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.20.06:217][  0]LogInit: FAudioDevice initialized.
+[2018.03.26-17.20.06:389][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Edo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.26-17.20.06:411][  0]LogInit: Texture streaming: Enabled
+[2018.03.26-17.20.06:600][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.26-17.20.07:246][  0]LogInit: Transaction tracking system initialized
+[2018.03.26-17.20.09:403][  0]BlueprintLog: New page: Editor Load
+[2018.03.26-17.20.12:602][  0]LocalizationService: Localization service is disabled
+[2018.03.26-17.20.17:341][  0]LogConsoleResponse: Display: 
+[2018.03.26-17.20.21:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Desktop/Idea_Mia/Content/' took 0.02s
+[2018.03.26-17.20.21:782][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.26-17.20.21:782][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.26-17.20.21:798][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.26-17.20.26:098][  0]SourceControl: Source control is disabled
+[2018.03.26-17.20.26:169][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.20.26:201][  0]LightingResults: New page: Lighting Build
+[2018.03.26-17.20.26:517][  0]MapCheck: New page: Map Check
+[2018.03.26-17.20.26:517][  0]LightingResults: New page: Lighting Build
+[2018.03.26-17.20.28:342][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.26-17.20.28:753][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.20.28:950][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.20.29:050][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.165ms to complete.
+[2018.03.26-17.20.29:050][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.921
+[2018.03.26-17.20.30:908][  0]LogCollectionManager: Loaded 0 collections in 0.002826 seconds
+[2018.03.26-17.20.31:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Desktop/Idea_Mia/Saved/Collections/' took 0.01s
+[2018.03.26-17.20.31:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Desktop/Idea_Mia/Content/Developers/Edo/Collections/' took 0.01s
+[2018.03.26-17.20.31:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Desktop/Idea_Mia/Content/Collections/' took 0.01s
+[2018.03.26-17.20.31:134][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.26-17.20.31:156][  0]LogContentBrowser: Native class hierarchy populated in 0.0207 seconds. Added 2363 classes and 519 folders.
+[2018.03.26-17.20.31:318][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.26-17.20.34:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.26-17.20.35:493][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.26-17.20.37:391][  0]LogSlate: Took 0.016045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.26-17.20.37:437][  0]LogSlate: Took 0.018278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.26-17.20.37:450][  0]LogSlate: Took 0.011326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.26-17.20.38:232][  0]LogRenderer: Reallocating scene render targets to support 820x744 Format 9 NumSamples 1 (Frame:1).
+[2018.03.26-17.20.40:279][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.26-17.20.40:279][  0]LogLoad: (Engine Initialization) Total time: 125.85 seconds
+[2018.03.26-17.20.40:279][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.26-17.20.40:303][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.26-17.20.40:979][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.03.26-17.20.42:073][  3]LogAssetRegistry: Asset discovery search completed in 66.3055 seconds
+[2018.03.26-17.20.42:130][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.26-17.20.42:130][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.03.26-17.20.42:320][  3]LogSlate: Took 0.020787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.26-17.21.08:427][788]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.26-17.21.20:238][474]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.26-17.21.23:807][586]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.26-17.21.24:961][586]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.03.26-17.21.27:775][586]LogSlate: Took 0.017591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.26-17.21.28:318][587]LogSlate: Took 0.023194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.26-17.21.34:665][739]LogRenderer: Reallocating scene render targets to support 832x744 Format 9 NumSamples 1 (Frame:1).
+[2018.03.26-17.21.40:476][833]LogHttp: Warning: 0000022584BEFA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.21.40:476][833]LogHttp: Warning: 0000022584BEFA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.21.40:476][833]LogHttp: Warning: 0000022584BEFA00: libcurl info message cache 1 (Closing connection 0)
+[2018.03.26-17.21.55:356][331]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.26-17.21.55:756][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-17.21.55:923][331]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 9:21:55 PM)
+[2018.03.26-17.21.55:936][331]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.26-17.21.55:979][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042984s)
+[2018.03.26-17.21.55:980][331]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.26-17.21.55:989][331]LogPlayLevel: PIE: World Init took: (0.009473s)
+[2018.03.26-17.21.55:993][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.057226s)
+[2018.03.26-17.21.56:160][331]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.21.56:167][331]LogInit: FAudioDevice initialized.
+[2018.03.26-17.21.56:276][331]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.21.56:348][331]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.03.26-19.21.56
+[2018.03.26-17.21.56:353][331]LogWorld: Bringing up level for play took: 0.005708
+[2018.03.26-17.21.56:569][331]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.03.26-17.21.57:035][331]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.896
+[2018.03.26-17.21.57:464][331]LogRenderer: Reallocating scene render targets to support 916x744 Format 9 NumSamples 1 (Frame:1).
+[2018.03.26-17.22.03:152][415]LogRenderer: Reallocating scene render targets to support 1024x744 Format 9 NumSamples 1 (Frame:86).
+[2018.03.26-17.22.04:620][468]LogNet: Browse: /Game/FirstPersonBP/Maps/selezione
+[2018.03.26-17.22.04:632][468]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/selezione
+[2018.03.26-17.22.08:063][468]LogAIModule: Creating AISystem for world selezione
+[2018.03.26-17.22.08:063][468]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.22.08:109][468]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_selezione.selezione up for play (max tick rate 60) at 2018.03.26-19.22.08
+[2018.03.26-17.22.08:121][468]LogWorld: Bringing up level for play took: 0.046163
+[2018.03.26-17.22.08:163][468]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.26-17.22.08:391][468]LogLoad: Took 3.757857 seconds to LoadMap(/Game/FirstPersonBP/Maps/selezione)
+[2018.03.26-17.22.14:568][701]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio
+[2018.03.26-17.22.14:568][701]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio
+[2018.03.26-17.22.26:756][701]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.22.26:757][701]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.22.26:910][701]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.03.26-19.22.26
+[2018.03.26-17.22.27:087][701]LogWorld: Bringing up level for play took: 0.329761
+[2018.03.26-17.22.27:279][701]LogLoad: Took 12.710243 seconds to LoadMap(/Game/FirstPersonBP/Maps/Specchio)
+[2018.03.26-17.22.46:041][205]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio
+[2018.03.26-17.22.46:053][205]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio
+[2018.03.26-17.22.47:605][205]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.22.47:618][205]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.22.47:625][205]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.03.26-19.22.47
+[2018.03.26-17.22.47:626][205]LogWorld: Bringing up level for play took: 0.007074
+[2018.03.26-17.22.47:656][205]LogLoad: Took 1.602243 seconds to LoadMap(/Game/FirstPersonBP/Maps/Specchio)
+[2018.03.26-17.23.02:230][682]LogNet: Browse: /Game/FirstPersonBP/Maps/selezione
+[2018.03.26-17.23.02:231][682]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/selezione
+[2018.03.26-17.23.02:450][682]LogAIModule: Creating AISystem for world selezione
+[2018.03.26-17.23.02:450][682]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.23.02:451][682]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_selezione.selezione up for play (max tick rate 60) at 2018.03.26-19.23.02
+[2018.03.26-17.23.02:451][682]LogWorld: Bringing up level for play took: 0.000937
+[2018.03.26-17.23.02:452][682]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.26-17.23.02:455][682]LogLoad: Took 0.225047 seconds to LoadMap(/Game/FirstPersonBP/Maps/selezione)
+[2018.03.26-17.23.03:872][736]LogNet: Browse: /Game/FirstPersonBP/Maps/informatica
+[2018.03.26-17.23.03:878][736]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/informatica
+[2018.03.26-17.23.05:756][736]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.23.05:756][736]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.23.05:813][736]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_informatica.informatica up for play (max tick rate 60) at 2018.03.26-19.23.05
+[2018.03.26-17.23.05:832][736]LogWorld: Bringing up level for play took: 0.074426
+[2018.03.26-17.23.05:835][736]LogLoad: Took 1.957174 seconds to LoadMap(/Game/FirstPersonBP/Maps/informatica)
+[2018.03.26-17.23.40:839][829]LogHttp: Warning: 00000225FC50F100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.23.40:839][829]LogHttp: Warning: 00000225FC50F100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.23.40:839][829]LogHttp: Warning: 00000225FC50F100: libcurl info message cache 1 (Closing connection 1)
+[2018.03.26-17.23.47:950][ 57]LogSlate: Took 0.013199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.26-17.23.48:918][ 57]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.23.48:948][ 57]LogSlate: Took 0.020563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.26-17.23.49:116][ 57]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.23.49:126][ 57]LightingResults: New page: Lighting Build
+[2018.03.26-17.23.49:158][ 57]LoadErrors: New page: Loading map: informatica.umap
+[2018.03.26-17.23.49:158][ 57]MapCheck: New page: Map Check
+[2018.03.26-17.23.49:158][ 57]LightingResults: New page: Lighting Build
+[2018.03.26-17.23.49:703][ 57]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.23.49:945][ 57]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.24.00:916][ 57]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10,971.299ms to complete.
+[2018.03.26-17.24.00:919][ 57]LogFileHelpers: Loading map 'informatica' took 11.865
+[2018.03.26-17.24.26:212][761]LogEditorViewport: Clicking on Actor (LMB): BP_barra_vita_C (BP_barra_vita)
+[2018.03.26-17.24.44:095][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.24.57:411][684]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.26-17.24.57:483][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica' with GeneratedClass '/Game/FirstPersonBP/Maps/informatica.informatica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica'
+[2018.03.26-17.24.57:485][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-17.24.57:490][684]PIE: New page: PIE session: informatica (Mar 26, 2018, 9:24:57 PM)
+[2018.03.26-17.24.57:504][684]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_informatica
+[2018.03.26-17.24.57:556][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051643s)
+[2018.03.26-17.24.57:702][684]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.24.57:702][684]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.03.26-17.24.57:709][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/informatica.informatica to /Game/FirstPersonBP/Maps/UEDPIE_0_informatica.informatica (0.219450s)
+[2018.03.26-17.24.57:776][684]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.24.57:819][684]LogInit: FAudioDevice initialized.
+[2018.03.26-17.24.57:950][684]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.24.57:956][684]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_informatica.informatica up for play (max tick rate 60) at 2018.03.26-19.24.57
+[2018.03.26-17.24.57:977][684]LogWorld: Bringing up level for play took: 0.025874
+[2018.03.26-17.24.58:025][684]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_informatica 0.887
+[2018.03.26-17.24.58:027][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica' with GeneratedClass '/Game/FirstPersonBP/Maps/informatica.informatica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica'
+[2018.03.26-17.25.40:903][327]LogHttp: Warning: 00000225D6516B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.25.40:903][327]LogHttp: Warning: 00000225D6516B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.25.40:904][327]LogHttp: Warning: 00000225D6516B00: libcurl info message cache 1 (Closing connection 2)
+[2018.03.26-17.25.43:984][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica' with GeneratedClass '/Game/FirstPersonBP/Maps/informatica.informatica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica'
+[2018.03.26-17.25.44:088][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica' with GeneratedClass '/Game/FirstPersonBP/Maps/informatica.informatica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/informatica.informatica:PersistentLevel.informatica'
+[2018.03.26-17.25.49:189][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.25.56:847][800]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.26.05:082][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.26.06:614][ 90]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.26.08:889][158]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.26.10:371][202]Cmd: EDIT COPY
+[2018.03.26-17.26.13:781][257]LogAIModule: Creating AISystem for world informatica2
+[2018.03.26-17.26.13:819][257]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.26.13:820][257]LightingResults: New page: Lighting Build
+[2018.03.26-17.26.13:841][257]LoadErrors: New page: Loading map: informatica2.umap
+[2018.03.26-17.26.13:883][257]MapCheck: New page: Map Check
+[2018.03.26-17.26.13:883][257]LightingResults: New page: Lighting Build
+[2018.03.26-17.26.14:028][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.26.14:259][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.26.16:171][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,911.543ms to complete.
+[2018.03.26-17.26.16:187][257]LogFileHelpers: Loading map 'informatica2' took 2.368
+[2018.03.26-17.26.26:245][499]Cmd: EDIT PASTE
+[2018.03.26-17.26.33:214][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2018.03.26-17.26.37:419][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.26.38:784][804]Cmd: DELETE
+[2018.03.26-17.26.38:784][804]Cmd: ACTOR DELETE
+[2018.03.26-17.26.38:847][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.26-17.26.38:962][804]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2018.03.26-17.26.41:648][891]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.26.49:813][129]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.26.56:247][325]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.26.57:282][355]Cmd: DELETE
+[2018.03.26-17.26.57:282][355]Cmd: ACTOR DELETE
+[2018.03.26-17.26.57:293][355]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.03.26-17.26.57:324][355]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.03.26-17.26.59:259][418]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2018.03.26-17.27.04:321][576]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.27.10:119][738]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2018.03.26-17.27.11:091][766]Cmd: DELETE
+[2018.03.26-17.27.11:091][766]Cmd: ACTOR DELETE
+[2018.03.26-17.27.11:105][766]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.03.26-17.27.11:138][766]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.03.26-17.27.26:244][261]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.27.36:554][568]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2018.03.26-17.27.39:908][664]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.27.41:143][700]LogHttp: Warning: 00000225D6EA1780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.27.41:143][700]LogHttp: Warning: 00000225D6EA1780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.27.41:143][700]LogHttp: Warning: 00000225D6EA1780: libcurl info message cache 1 (Closing connection 3)
+[2018.03.26-17.27.53:689][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.27.55:164][120]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.28.08:750][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.28.13:134][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.28.14:135][609]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.28.25:993][972]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.28.27:850][ 28]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.28.38:381][354]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.28.44:825][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.28.46:094][608]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.28.53:800][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.29.10:602][327]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.29.37:194][154]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.29.41:200][266]LogHttp: Warning: 00000225D713BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.29.41:200][266]LogHttp: Warning: 00000225D713BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.29.41:200][266]LogHttp: Warning: 00000225D713BD00: libcurl info message cache 1 (Closing connection 4)
+[2018.03.26-17.30.03:585][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.30.07:201][ 97]Cmd: TRANSACTION UNDO
+[2018.03.26-17.30.07:201][ 97]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.26-17.30.08:436][156]Cmd: TRANSACTION UNDO
+[2018.03.26-17.30.08:437][156]LogEditorTransaction: Undo Edit Text
+[2018.03.26-17.30.24:132][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.30.32:820][849]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.30.50:252][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.30.51:430][467]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.31.18:917][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.31.20:035][232]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2018.03.26-17.31.30:510][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2018.03.26-17.31.33:991][672]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2018.03.26-17.31.38:498][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.31.41:248][875]LogHttp: Warning: 00000225C5B66980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.31.41:248][875]LogHttp: Warning: 00000225C5B66980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.31.41:248][875]LogHttp: Warning: 00000225C5B66980: libcurl info message cache 1 (Closing connection 5)
+[2018.03.26-17.31.41:683][888]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.31.47:862][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.31.50:000][138]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.31.52:631][213]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2018.03.26-17.31.55:617][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.31.57:367][349]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.32.02:066][486]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2018.03.26-17.32.04:778][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.32.06:454][611]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.32.17:666][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.32.20:123][975]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.32.22:776][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.32.27:970][175]LogAIModule: Creating AISystem for world informatica3
+[2018.03.26-17.32.32:470][175]LogSavePackage: Save=260.24ms
+[2018.03.26-17.32.32:470][175]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/informatica2C88B3B1B4CC7C699657A3CB7BB10E89A.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica2.umap'
+[2018.03.26-17.32.32:541][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica2.umap
+[2018.03.26-17.32.32:652][175]LogFileHelpers: Saving map 'informatica2' took 3.026
+[2018.03.26-17.32.32:653][175]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.32.32:653][175]LightingResults: New page: Lighting Build
+[2018.03.26-17.32.32:676][175]LoadErrors: New page: Loading map: informatica3.umap
+[2018.03.26-17.32.32:694][175]MapCheck: New page: Map Check
+[2018.03.26-17.32.32:695][175]LightingResults: New page: Lighting Build
+[2018.03.26-17.32.33:048][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.32.33:228][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.32.33:320][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.113ms to complete.
+[2018.03.26-17.32.33:321][175]LogFileHelpers: Loading map 'informatica3' took 0.669
+[2018.03.26-17.32.40:963][342]Cmd: EDIT PASTE
+[2018.03.26-17.32.45:065][437]Cmd: TRANSACTION UNDO
+[2018.03.26-17.32.45:065][437]LogEditorTransaction: Undo Paste
+[2018.03.26-17.32.48:941][551]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.32.49:150][551]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.32.49:150][551]LightingResults: New page: Lighting Build
+[2018.03.26-17.32.49:150][551]LoadErrors: New page: Loading map: informatica.umap
+[2018.03.26-17.32.49:202][551]MapCheck: New page: Map Check
+[2018.03.26-17.32.49:202][551]LightingResults: New page: Lighting Build
+[2018.03.26-17.32.49:759][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.32.49:932][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.32.52:792][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,859.656ms to complete.
+[2018.03.26-17.32.52:805][551]LogFileHelpers: Loading map 'informatica' took 3.677
+[2018.03.26-17.32.58:646][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.33.00:634][762]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.33.01:676][787]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.33.03:358][833]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.33.04:781][871]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.33.06:377][916]Cmd: EDIT COPY
+[2018.03.26-17.33.09:568][  8]LogAIModule: Creating AISystem for world informatica3
+[2018.03.26-17.33.09:606][  8]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.33.09:606][  8]LightingResults: New page: Lighting Build
+[2018.03.26-17.33.09:607][  8]LoadErrors: New page: Loading map: informatica3.umap
+[2018.03.26-17.33.09:608][  8]MapCheck: New page: Map Check
+[2018.03.26-17.33.09:608][  8]LightingResults: New page: Lighting Build
+[2018.03.26-17.33.09:848][  8]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.33.09:943][  8]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.33.10:042][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.844ms to complete.
+[2018.03.26-17.33.10:042][  8]LogFileHelpers: Loading map 'informatica3' took 0.437
+[2018.03.26-17.33.12:593][ 82]Cmd: EDIT PASTE
+[2018.03.26-17.33.15:771][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.33.30:840][592]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.33.34:991][713]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.33.40:673][876]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.33.41:627][902]LogHttp: Warning: 00000225C1FF6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.33.41:627][902]LogHttp: Warning: 00000225C1FF6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.33.41:627][902]LogHttp: Warning: 00000225C1FF6C80: libcurl info message cache 1 (Closing connection 6)
+[2018.03.26-17.33.41:770][906]Cmd: DELETE
+[2018.03.26-17.33.41:770][906]Cmd: ACTOR DELETE
+[2018.03.26-17.33.41:800][906]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.03.26-17.33.41:828][906]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.03.26-17.33.43:918][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.33.44:982][  0]Cmd: DELETE
+[2018.03.26-17.33.44:983][  0]Cmd: ACTOR DELETE
+[2018.03.26-17.33.44:997][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.26-17.33.45:037][  0]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.03.26-17.33.56:555][372]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.34.41:503][731]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.34.47:944][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.34.50:244][994]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.34.57:294][207]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.35.07:104][523]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.35.11:595][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.35.13:035][699]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.35.19:016][870]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.35.21:025][929]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.35.30:020][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.35.31:695][203]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.35.41:662][487]LogHttp: Warning: 00000225E8DF5780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.35.41:662][487]LogHttp: Warning: 00000225E8DF5780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.35.41:662][487]LogHttp: Warning: 00000225E8DF5780: libcurl info message cache 1 (Closing connection 7)
+[2018.03.26-17.35.44:038][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.35.52:887][815]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.35.57:861][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.35.59:070][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.35.59:684][  5]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.36.03:367][112]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.36.08:464][263]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.36.12:617][385]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.36.16:370][495]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.36.21:235][638]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.36.25:035][749]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.36.30:823][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.36.31:963][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.36.49:146][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2018.03.26-17.36.50:922][500]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.26-17.36.51:011][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-17.36.51:011][500]PIE: New page: PIE session: informatica3 (Mar 26, 2018, 9:36:51 PM)
+[2018.03.26-17.36.51:011][500]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_informatica3
+[2018.03.26-17.36.51:019][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007273s)
+[2018.03.26-17.36.51:020][500]LogAIModule: Creating AISystem for world informatica3
+[2018.03.26-17.36.51:029][500]LogPlayLevel: PIE: World Init took: (0.010083s)
+[2018.03.26-17.36.51:029][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/informatica3.informatica3 to /Game/FirstPersonBP/Maps/UEDPIE_0_informatica3.informatica3 (0.017798s)
+[2018.03.26-17.36.51:059][500]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.36.51:117][500]LogInit: FAudioDevice initialized.
+[2018.03.26-17.36.51:167][500]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.36.51:186][500]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_informatica3.informatica3 up for play (max tick rate 60) at 2018.03.26-19.36.51
+[2018.03.26-17.36.51:189][500]LogWorld: Bringing up level for play took: 0.010404
+[2018.03.26-17.36.51:234][500]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_informatica3 0.096
+[2018.03.26-17.37.16:395][389]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.37.19:660][389]LogSavePackage: Save=194.97ms
+[2018.03.26-17.37.19:662][389]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/informatica3B0BAF69F44E979D6C64D93911D1B4DE2.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica3.umap'
+[2018.03.26-17.37.19:667][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica3.umap
+[2018.03.26-17.37.19:748][389]LogFileHelpers: Saving map 'informatica3' took 0.507
+[2018.03.26-17.37.19:749][389]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.37.19:749][389]LightingResults: New page: Lighting Build
+[2018.03.26-17.37.19:750][389]LoadErrors: New page: Loading map: Specchio.umap
+[2018.03.26-17.37.19:751][389]MapCheck: New page: Map Check
+[2018.03.26-17.37.19:751][389]LightingResults: New page: Lighting Build
+[2018.03.26-17.37.20:013][389]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.37.20:150][389]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.37.20:230][389]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.89ms to complete.
+[2018.03.26-17.37.20:232][389]LogFileHelpers: Loading map 'Specchio' took 0.484
+[2018.03.26-17.37.41:728][ 12]LogHttp: Warning: 00000225C2983280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.37.41:728][ 12]LogHttp: Warning: 00000225C2983280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.37.41:728][ 12]LogHttp: Warning: 00000225C2983280: libcurl info message cache 1 (Closing connection 8)
+[2018.03.26-17.38.09:761][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.38.20:241][116]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.38.20:279][116]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.38.20:279][116]LightingResults: New page: Lighting Build
+[2018.03.26-17.38.20:280][116]LoadErrors: New page: Loading map: informatica.umap
+[2018.03.26-17.38.20:281][116]MapCheck: New page: Map Check
+[2018.03.26-17.38.20:281][116]LightingResults: New page: Lighting Build
+[2018.03.26-17.38.20:563][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.38.20:652][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.38.20:737][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.963ms to complete.
+[2018.03.26-17.38.20:737][116]LogFileHelpers: Loading map 'informatica' took 0.459
+[2018.03.26-17.38.23:785][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.38.25:225][242]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.38.26:792][288]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.38.28:508][339]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.38.30:375][394]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.38.33:043][475]Cmd: EDIT COPY
+[2018.03.26-17.38.33:817][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.38.37:222][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.38.38:298][613]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.38.42:486][738]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.38.47:135][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.38.54:654][ 91]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.38.57:129][ 91]LogSavePackage: Save=639.60ms
+[2018.03.26-17.38.57:129][ 91]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/informatica745313DD4C7609F74CF6D18100D34DAC.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap'
+[2018.03.26-17.38.57:133][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap
+[2018.03.26-17.38.57:202][ 91]LogFileHelpers: Saving map 'informatica' took 0.871
+[2018.03.26-17.38.57:203][ 91]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.38.57:204][ 91]LightingResults: New page: Lighting Build
+[2018.03.26-17.38.57:204][ 91]LoadErrors: New page: Loading map: Specchio.umap
+[2018.03.26-17.38.57:206][ 91]MapCheck: New page: Map Check
+[2018.03.26-17.38.57:206][ 91]LightingResults: New page: Lighting Build
+[2018.03.26-17.38.57:556][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.38.57:688][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.38.57:768][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.22ms to complete.
+[2018.03.26-17.38.57:771][ 91]LogFileHelpers: Loading map 'Specchio' took 0.569
+[2018.03.26-17.39.01:895][209]Cmd: EDIT PASTE
+[2018.03.26-17.39.04:925][291]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2018.03.26-17.39.06:254][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.39.09:080][395]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.39.15:083][570]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2018.03.26-17.39.20:768][730]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.39.21:808][758]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.39.22:890][787]Cmd: DELETE
+[2018.03.26-17.39.22:890][787]Cmd: ACTOR DELETE
+[2018.03.26-17.39.22:906][787]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.03.26-17.39.22:909][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.26-17.39.22:956][787]LogEditorActor: Deleted 2 Actors (0.065 secs)
+[2018.03.26-17.39.41:765][381]LogHttp: Warning: 00000225C2B5AB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.39.41:766][381]LogHttp: Warning: 00000225C2B5AB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.39.41:766][381]LogHttp: Warning: 00000225C2B5AB00: libcurl info message cache 1 (Closing connection 9)
+[2018.03.26-17.40.01:758][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.40.45:649][196]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor13)
+[2018.03.26-17.40.47:739][256]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2018.03.26-17.40.54:447][466]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.03.26-17.40.57:732][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.41.00:037][622]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2018.03.26-17.41.11:831][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.41.15:331][ 53]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor13)
+[2018.03.26-17.41.25:234][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.41.28:444][440]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.03.26-17.41.33:639][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.41.36:720][673]Cmd: TRANSACTION UNDO
+[2018.03.26-17.41.36:720][673]LogEditorTransaction: Undo Move Actors
+[2018.03.26-17.41.38:838][762]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor13)
+[2018.03.26-17.41.41:153][828]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.03.26-17.41.41:824][846]LogHttp: Warning: 00000225D30CDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.41.41:824][846]LogHttp: Warning: 00000225D30CDC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.41.41:824][846]LogHttp: Warning: 00000225D30CDC00: libcurl info message cache 1 (Closing connection 10)
+[2018.03.26-17.41.43:680][900]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor13)
+[2018.03.26-17.41.45:780][960]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor14)
+[2018.03.26-17.41.49:188][ 60]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2018.03.26-17.41.52:505][155]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor13)
+[2018.03.26-17.42.27:529][140]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2018.03.26-17.42.34:953][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.42.36:517][395]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.03.26-17.42.41:013][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.42.41:602][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.42.53:811][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.42.55:471][929]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.26-17.42.55:510][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.42.55:510][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-17.42.55:511][929]PIE: New page: PIE session: Specchio (Mar 26, 2018, 9:42:55 PM)
+[2018.03.26-17.42.55:511][929]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.03.26-17.42.55:520][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009293s)
+[2018.03.26-17.42.55:521][929]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.42.55:521][929]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.03.26-17.42.55:521][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.010591s)
+[2018.03.26-17.42.55:558][929]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.42.55:564][929]LogInit: FAudioDevice initialized.
+[2018.03.26-17.42.55:615][929]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.42.55:623][929]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.03.26-19.42.55
+[2018.03.26-17.42.55:624][929]LogWorld: Bringing up level for play took: 0.008310
+[2018.03.26-17.42.55:637][929]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.498
+[2018.03.26-17.42.55:637][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.04:865][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.04:951][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.12:459][387]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0092 seconds. Added 15 classes and 2 folders.
+[2018.03.26-17.43.12:523][387]LogInit: Transaction tracking system initialized
+[2018.03.26-17.43.12:541][387]LogMatinee: Warning: GROUP ADD: New group found for (InterpGroupDirector_0).
+[2018.03.26-17.43.12:542][387]EditorErrors: New page: Matinee Initialization
+[2018.03.26-17.43.18:044][491]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.26-17.43.18:138][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.18:139][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-17.43.18:139][491]PIE: New page: PIE session: Specchio (Mar 26, 2018, 9:43:18 PM)
+[2018.03.26-17.43.18:139][491]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.03.26-17.43.18:147][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007814s)
+[2018.03.26-17.43.18:147][491]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.43.18:148][491]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.03.26-17.43.18:148][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.008978s)
+[2018.03.26-17.43.18:174][491]LogExit: Transaction tracking system shut down
+[2018.03.26-17.43.18:187][491]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.43.18:192][491]LogInit: FAudioDevice initialized.
+[2018.03.26-17.43.18:232][491]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-17.43.18:238][491]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.03.26-19.43.18
+[2018.03.26-17.43.18:239][491]LogWorld: Bringing up level for play took: 0.005912
+[2018.03.26-17.43.18:246][491]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.892
+[2018.03.26-17.43.18:247][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.25:925][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.26:054][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio' with GeneratedClass '/Game/FirstPersonBP/Maps/Specchio.Specchio_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Specchio.Specchio:PersistentLevel.Specchio'
+[2018.03.26-17.43.33:667][995]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.43.34:932][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Specchio" FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.26-17.43.35:294][995]LogSavePackage: Save=281.34ms
+[2018.03.26-17.43.35:294][995]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/SpecchioF2F38D4C445433B2A76224AC104E8C06.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap'
+[2018.03.26-17.43.35:315][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap
+[2018.03.26-17.43.35:384][995]LogFileHelpers: Saving map 'Specchio' took 0.546
+[2018.03.26-17.43.35:386][995]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.43.35:386][995]LightingResults: New page: Lighting Build
+[2018.03.26-17.43.35:387][995]LoadErrors: New page: Loading map: informatica.umap
+[2018.03.26-17.43.35:389][995]MapCheck: New page: Map Check
+[2018.03.26-17.43.35:389][995]LightingResults: New page: Lighting Build
+[2018.03.26-17.43.35:734][995]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.43.35:865][995]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.43.35:955][995]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.505ms to complete.
+[2018.03.26-17.43.35:956][995]LogFileHelpers: Loading map 'informatica' took 0.572
+[2018.03.26-17.43.37:901][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.43.39:511][ 94]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.43.40:518][122]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.43.41:879][161]LogHttp: Warning: 000002263CC18B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.43.41:879][161]LogHttp: Warning: 000002263CC18B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.43.41:879][161]LogHttp: Warning: 000002263CC18B80: libcurl info message cache 1 (Closing connection 11)
+[2018.03.26-17.43.42:106][167]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.43.43:437][204]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.43.45:928][277]Cmd: EDIT COPY
+[2018.03.26-17.43.49:594][381]LogAIModule: Creating AISystem for world Specchio2
+[2018.03.26-17.43.49:635][381]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.43.49:635][381]LightingResults: New page: Lighting Build
+[2018.03.26-17.43.49:636][381]LoadErrors: New page: Loading map: Specchio2.umap
+[2018.03.26-17.43.49:638][381]MapCheck: New page: Map Check
+[2018.03.26-17.43.49:638][381]LightingResults: New page: Lighting Build
+[2018.03.26-17.43.50:019][381]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.43.50:118][381]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.43.50:207][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.745ms to complete.
+[2018.03.26-17.43.50:207][381]LogFileHelpers: Loading map 'Specchio2' took 0.573
+[2018.03.26-17.43.54:977][514]Cmd: EDIT PASTE
+[2018.03.26-17.43.56:517][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.43.58:679][614]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.44.03:896][768]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.44.07:502][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.44.09:099][913]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.44.10:506][952]Cmd: DELETE
+[2018.03.26-17.44.10:506][952]Cmd: ACTOR DELETE
+[2018.03.26-17.44.10:519][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.26-17.44.10:520][952]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.03.26-17.44.10:570][952]LogEditorActor: Deleted 2 Actors (0.063 secs)
+[2018.03.26-17.44.29:150][522]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2018.03.26-17.44.33:532][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.44.40:036][816]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.44.52:490][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.44.54:443][232]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.45.03:845][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.45.04:625][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.45.05:615][584]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.45.16:762][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.45.20:664][ 16]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.45.24:380][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.45.27:064][187]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.45.38:870][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.45.39:648][547]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.45.41:965][611]LogHttp: Warning: 000002263CBCE200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.45.41:965][611]LogHttp: Warning: 000002263CBCE200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.45.41:965][611]LogHttp: Warning: 000002263CBCE200: libcurl info message cache 1 (Closing connection 12)
+[2018.03.26-17.45.42:494][627]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.45.45:710][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.45.46:852][747]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.45.50:529][852]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.45.53:122][923]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.46.00:298][124]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.46.04:169][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.46.10:337][394]LogAIModule: Creating AISystem for world informatica
+[2018.03.26-17.46.11:741][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Specchio2" FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.26-17.46.11:982][394]LogSavePackage: Save=172.72ms
+[2018.03.26-17.46.11:982][394]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/Specchio29F232ED24B04977B64569183B4377B1B.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio2.umap'
+[2018.03.26-17.46.12:005][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio2.umap
+[2018.03.26-17.46.12:077][394]LogFileHelpers: Saving map 'Specchio2' took 0.433
+[2018.03.26-17.46.12:079][394]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/informatica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.46.12:079][394]LightingResults: New page: Lighting Build
+[2018.03.26-17.46.12:080][394]LoadErrors: New page: Loading map: informatica.umap
+[2018.03.26-17.46.12:082][394]MapCheck: New page: Map Check
+[2018.03.26-17.46.12:082][394]LightingResults: New page: Lighting Build
+[2018.03.26-17.46.12:485][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.46.12:619][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.46.12:701][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.93ms to complete.
+[2018.03.26-17.46.12:703][394]LogFileHelpers: Loading map 'informatica' took 0.626
+[2018.03.26-17.46.14:388][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.46.15:978][482]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.46.17:357][521]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.46.19:574][584]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.46.20:930][622]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.46.21:888][650]Cmd: EDIT COPY
+[2018.03.26-17.46.23:245][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.46.25:734][750]LogAIModule: Creating AISystem for world Specchio3
+[2018.03.26-17.46.25:774][750]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.46.25:774][750]LightingResults: New page: Lighting Build
+[2018.03.26-17.46.25:775][750]LoadErrors: New page: Loading map: Specchio3.umap
+[2018.03.26-17.46.25:777][750]MapCheck: New page: Map Check
+[2018.03.26-17.46.25:777][750]LightingResults: New page: Lighting Build
+[2018.03.26-17.46.26:214][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.46.26:361][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.46.26:452][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.215ms to complete.
+[2018.03.26-17.46.26:453][750]LogFileHelpers: Loading map 'Specchio3' took 0.680
+[2018.03.26-17.46.32:058][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.46.34:762][982]Cmd: EDIT PASTE
+[2018.03.26-17.46.42:289][195]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.46.46:384][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.46.47:140][332]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.46.50:230][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2018.03.26-17.46.51:699][461]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2018.03.26-17.46.52:638][487]Cmd: DELETE
+[2018.03.26-17.46.52:638][487]Cmd: ACTOR DELETE
+[2018.03.26-17.46.52:654][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.26-17.46.52:658][487]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.03.26-17.46.52:700][487]LogEditorActor: Deleted 2 Actors (0.062 secs)
+[2018.03.26-17.47.00:388][730]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.47.03:278][812]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.47.05:663][880]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.47.11:677][ 60]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.47.13:435][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.47.14:293][134]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.47.24:402][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.47.25:800][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.47.26:464][495]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.47.41:984][237]LogHttp: Warning: 000002263CBCD780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.47.41:984][237]LogHttp: Warning: 000002263CBCD780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.47.41:984][237]LogHttp: Warning: 000002263CBCD780: libcurl info message cache 1 (Closing connection 13)
+[2018.03.26-17.47.43:098][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.47.44:373][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.47.45:122][353]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.47.54:429][638]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.47.58:880][772]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.48.04:453][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.48.06:401][974]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.48.10:782][102]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.48.34:762][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.48.37:833][861]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.48.56:650][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.48.58:437][487]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2018.03.26-17.49.00:770][555]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.49.05:314][697]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2018.03.26-17.49.07:999][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.49.11:535][864]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.49.16:274][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.49.18:780][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.49.38:215][622]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.49.41:018][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2018.03.26-17.49.42:055][730]LogHttp: Warning: 00000226330EBA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.49.42:055][730]LogHttp: Warning: 00000226330EBA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.49.42:055][730]LogHttp: Warning: 00000226330EBA00: libcurl info message cache 1 (Closing connection 14)
+[2018.03.26-17.49.43:041][758]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2018.03.26-17.49.46:483][856]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2018.03.26-17.49.51:889][ 13]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2018.03.26-17.49.55:089][105]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2018.03.26-17.50.01:349][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.50.03:532][342]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2018.03.26-17.50.06:036][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.50.08:089][465]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2018.03.26-17.50.09:879][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.50.13:096][591]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.03.26-17.50.15:967][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room2)
+[2018.03.26-17.50.20:363][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Specchio3" FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.26-17.50.20:651][810]LogSavePackage: Save=219.33ms
+[2018.03.26-17.50.20:651][810]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/Specchio3D6D74BB54E62B2DC7D4D6F95DC2D298D.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio3.umap'
+[2018.03.26-17.50.20:675][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio3.umap
+[2018.03.26-17.50.20:745][810]LogFileHelpers: Saving map 'Specchio3' took 0.478
+[2018.03.26-17.51.15:618][292]LogBlueprint: Warning: [Compiler BP_Player] InputAction Event references unknown Action 'SpawnMuffin' for  InputAction SpawnMuffin
+[2018.03.26-17.51.15:622][292]LogBlueprint: Warning: [Compiler BP_Player] [1961.19] Compile of BP_Player successful, but with 1 Warning(s) [in 19 ms] (/Game/MuffinWar/Blueprints/BP_Player.BP_Player)
+[2018.03.26-17.51.16:027][292]LogStaticMesh: Building static mesh SM_Fence...
+[2018.03.26-17.51.16:078][292]LogStaticMesh: Built static mesh [0.08s] /Game/MuffinWar/Meshes/SM_Fence.SM_Fence
+[2018.03.26-17.51.16:158][292]LogAIModule: Creating AISystem for world TutorialMap
+[2018.03.26-17.51.16:268][292]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/MuffinWar/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.51.16:268][292]LightingResults: New page: Lighting Build
+[2018.03.26-17.51.16:269][292]LoadErrors: New page: Loading map: TutorialMap.umap
+[2018.03.26-17.51.16:271][292]MapCheck: New page: Map Check
+[2018.03.26-17.51.16:271][292]LightingResults: New page: Lighting Build
+[2018.03.26-17.51.16:817][292]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.51.16:924][292]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.51.17:016][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.071ms to complete.
+[2018.03.26-17.51.17:020][292]LogFileHelpers: Loading map 'TutorialMap' took 0.753
+[2018.03.26-17.51.23:072][441]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.26-17.51.23:163][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/MuffinWar/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.03.26-17.51.23:163][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-17.51.23:164][441]PIE: New page: PIE session: TutorialMap (Mar 26, 2018, 9:51:23 PM)
+[2018.03.26-17.51.23:164][441]LogPlayLevel: Creating play world package: /Game/MuffinWar/Maps/UEDPIE_0_TutorialMap
+[2018.03.26-17.51.23:172][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008010s)
+[2018.03.26-17.51.23:172][441]LogAIModule: Creating AISystem for world TutorialMap
+[2018.03.26-17.51.23:173][441]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.03.26-17.51.23:173][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MuffinWar/Maps/TutorialMap.TutorialMap to /Game/MuffinWar/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.009372s)
+[2018.03.26-17.51.23:203][441]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-17.51.23:209][441]LogInit: FAudioDevice initialized.
+[2018.03.26-17.51.23:256][441]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.03.26-17.51.23:259][441]LogWorld: Bringing World /Game/MuffinWar/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.03.26-19.51.23
+[2018.03.26-17.51.23:259][441]LogWorld: Bringing up level for play took: 0.002735
+[2018.03.26-17.51.23:269][441]Cmd: r.TonemapperFilm 0
+[2018.03.26-17.51.23:270][441]r.TonemapperFilm = "0"
+[2018.03.26-17.51.23:280][441]PIE: Play in editor start time for /Game/MuffinWar/Maps/UEDPIE_0_TutorialMap 0.142
+[2018.03.26-17.51.23:281][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/MuffinWar/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.03.26-17.51.27:330][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/MuffinWar/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.03.26-17.51.27:365][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/MuffinWar/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/MuffinWar/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.03.26-17.51.31:362][639]LightingResults: New page: Lighting Build
+[2018.03.26-17.51.31:364][639]MapCheck: New page: Map Check
+[2018.03.26-17.51.31:364][639]LightingResults: New page: Lighting Build
+[2018.03.26-17.51.31:425][639]LogAIModule: Creating AISystem for world Untitled
+[2018.03.26-17.51.31:777][639]LoadErrors: New page: New Map
+[2018.03.26-17.51.31:813][639]LogAIModule: Creating AISystem for world TutorialMap
+[2018.03.26-17.51.41:882][946]LogMaterial: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2018.03.26-17.51.42:256][946]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.03.26-17.51.45:824][948]LogHttp: Warning: 0000022651813D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.51.45:824][948]LogHttp: Warning: 0000022651813D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.51.45:824][948]LogHttp: Warning: 0000022651813D00: libcurl info message cache 1 (Closing connection 15)
+[2018.03.26-17.51.54:914][243]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.26-17.51.54:963][243]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.51.54:963][243]LightingResults: New page: Lighting Build
+[2018.03.26-17.51.54:964][243]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.03.26-17.51.54:965][243]MapCheck: New page: Map Check
+[2018.03.26-17.51.54:965][243]LightingResults: New page: Lighting Build
+[2018.03.26-17.51.55:672][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.51.55:853][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.51.55:987][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 133.663ms to complete.
+[2018.03.26-17.51.55:990][243]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.028
+[2018.03.26-17.52.28:057][287]LogEditorViewport: Clicking on Actor (LMB): BP_menù_C (BP_menù)
+[2018.03.26-17.52.47:707][904]LogEditorViewport: Clicking Background
+[2018.03.26-17.53.25:562][141]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2018.03.26-17.53.25:635][141]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2018.03.26-17.53.25:958][141]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2018.03.26-17.53.26:058][141]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2018.03.26-17.53.26:123][141]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2018.03.26-17.53.26:260][141]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2018.03.26-17.53.26:372][141]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2018.03.26-17.53.26:924][141]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2018.03.26-17.53.27:153][141]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.03.26-17.53.27:281][141]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2018.03.26-17.53.27:430][141]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2018.03.26-17.53.27:685][141]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.03.26-17.53.27:762][141]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.03.26-17.53.27:871][141]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2018.03.26-17.53.27:951][141]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.03.26-17.53.28:018][141]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2018.03.26-17.53.28:089][141]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2018.03.26-17.53.28:247][141]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2018.03.26-17.53.28:336][141]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2018.03.26-17.53.28:556][141]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2018.03.26-17.53.28:633][141]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2018.03.26-17.53.28:962][141]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2018.03.26-17.53.29:069][141]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2018.03.26-17.53.29:147][141]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2018.03.26-17.53.29:296][141]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.03.26-17.53.29:452][141]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.03.26-17.53.29:589][141]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.03.26-17.53.29:662][141]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2018.03.26-17.53.29:844][141]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.03.26-17.53.29:923][141]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2018.03.26-17.53.29:996][141]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2018.03.26-17.53.30:060][141]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2018.03.26-17.53.30:171][141]LogAIModule: Creating AISystem for world StarterMap
+[2018.03.26-17.53.34:442][141]LogSavePackage: Save=35.31ms
+[2018.03.26-17.53.34:442][141]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/FirstPersonExampleMapA7746121441504534ABD6E900249AF24.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.03.26-17.53.34:447][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.03.26-17.53.34:544][141]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.477
+[2018.03.26-17.53.34:546][141]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.53.34:546][141]LightingResults: New page: Lighting Build
+[2018.03.26-17.53.34:548][141]LoadErrors: New page: Loading map: StarterMap.umap
+[2018.03.26-17.53.34:548][141]MapCheck: New page: Map Check
+[2018.03.26-17.53.34:548][141]LightingResults: New page: Lighting Build
+[2018.03.26-17.53.35:761][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.53.35:913][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.53.36:108][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 194.613ms to complete.
+[2018.03.26-17.53.36:114][141]LogFileHelpers: Loading map 'StarterMap' took 1.569
+[2018.03.26-17.53.45:887][236]LogHttp: Warning: 0000022638FBA500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.53.45:887][236]LogHttp: Warning: 0000022638FBA500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.53.45:887][236]LogHttp: Warning: 0000022638FBA500: libcurl info message cache 1 (Closing connection 16)
+[2018.03.26-17.53.50:530][316]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Ambient_Dust)
+[2018.03.26-17.54.03:523][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere_7)
+[2018.03.26-17.54.05:419][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere_20)
+[2018.03.26-17.54.06:160][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere_26)
+[2018.03.26-17.54.11:976][716]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Collapse_Cue)
+[2018.03.26-17.54.19:652][822]LogAIModule: Creating AISystem for world Specchio
+[2018.03.26-17.54.19:727][822]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Desktop/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-17.54.19:727][822]LightingResults: New page: Lighting Build
+[2018.03.26-17.54.19:728][822]LoadErrors: New page: Loading map: Specchio.umap
+[2018.03.26-17.54.19:754][822]MapCheck: New page: Map Check
+[2018.03.26-17.54.19:755][822]LightingResults: New page: Lighting Build
+[2018.03.26-17.54.20:922][822]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-17.54.39:613][822]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-17.54.39:810][822]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 196.854ms to complete.
+[2018.03.26-17.54.39:811][822]LogFileHelpers: Loading map 'Specchio' took 20.085
+[2018.03.26-17.54.45:865][  4]LogAIModule: Creating AISystem for world StarterMap
+[2018.03.26-17.55.45:954][482]LogHttp: Warning: 00000225C5A29480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.55.45:954][482]LogHttp: Warning: 00000225C5A29480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.55.45:954][482]LogHttp: Warning: 00000225C5A29480: libcurl info message cache 1 (Closing connection 17)
+[2018.03.26-17.55.51:713][622]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light)
+[2018.03.26-17.56.39:283][714]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.03.26-17.57.46:029][488]LogHttp: Warning: 00000226330EA080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.57.46:029][488]LogHttp: Warning: 00000226330EA080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.57.46:029][488]LogHttp: Warning: 00000226330EA080: libcurl info message cache 1 (Closing connection 18)
+[2018.03.26-17.59.47:345][212]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.03.26-17.59.47:752][214]LogHttp: Warning: 0000022664656500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-17.59.47:752][214]LogHttp: Warning: 0000022664656500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-17.59.47:752][214]LogHttp: Warning: 0000022664656500: libcurl info message cache 1 (Closing connection 19)
+[2018.03.26-18.01.47:814][ 35]LogHttp: Warning: 000002264BAA2980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.01.47:815][ 35]LogHttp: Warning: 000002264BAA2980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.01.47:815][ 35]LogHttp: Warning: 000002264BAA2980: libcurl info message cache 1 (Closing connection 20)
+[2018.03.26-18.03.47:921][260]LogHttp: Warning: 000002264BA9F700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.03.47:921][260]LogHttp: Warning: 000002264BA9F700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.03.47:922][260]LogHttp: Warning: 000002264BA9F700: libcurl info message cache 1 (Closing connection 21)
+[2018.03.26-18.05.48:001][998]LogHttp: Warning: 000002263CBCDD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.05.48:002][998]LogHttp: Warning: 000002263CBCDD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.05.48:002][998]LogHttp: Warning: 000002263CBCDD80: libcurl info message cache 1 (Closing connection 22)
+[2018.03.26-18.07.48:088][737]LogHttp: Warning: 000002263274E200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.07.48:089][737]LogHttp: Warning: 000002263274E200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.07.48:089][737]LogHttp: Warning: 000002263274E200: libcurl info message cache 1 (Closing connection 23)
+[2018.03.26-18.09.04:794][575]LogSavePackage: Save=481.04ms
+[2018.03.26-18.09.04:794][575]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/Specchio_Auto1F3B25F484C795063CCB9B1B8D494DD43.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/Autosaves/Game/FirstPersonBP/Maps/Specchio_Auto1.umap'
+[2018.03.26-18.09.04:801][575]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/Autosaves/Game/FirstPersonBP/Maps/Specchio_Auto1.umap
+[2018.03.26-18.09.04:804][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Specchio' took 0.640
+[2018.03.26-18.09.04:804][575]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.640
+[2018.03.26-18.09.48:539][708]LogHttp: Warning: 00000226544DAE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.09.48:539][708]LogHttp: Warning: 00000226544DAE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.09.48:539][708]LogHttp: Warning: 00000226544DAE00: libcurl info message cache 1 (Closing connection 24)
+[2018.03.26-18.11.31:449][322]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.26-18.11.48:619][788]LogHttp: Warning: 000002258390A500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.11.48:620][788]LogHttp: Warning: 000002258390A500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.11.48:620][788]LogHttp: Warning: 000002258390A500: libcurl info message cache 1 (Closing connection 25)
+[2018.03.26-18.11.54:995][967]LogActorFactory: Actor Factory created Cube
+[2018.03.26-18.11.55:668][980]LogActorFactory: Actor Factory created Cube
+[2018.03.26-18.12.05:479][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.03.26-18.12.06:338][288]Cmd: DELETE
+[2018.03.26-18.12.06:338][288]Cmd: ACTOR DELETE
+[2018.03.26-18.12.06:351][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.26-18.12.06:403][288]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.03.26-18.12.59:570][998]LogActorFactory: Actor Factory created Sphere
+[2018.03.26-18.13.00:075][ 10]LogActorFactory: Actor Factory created Sphere
+[2018.03.26-18.13.48:655][589]LogHttp: Warning: 000002266B7AA380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.13.48:655][589]LogHttp: Warning: 000002266B7AA380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.13.48:655][589]LogHttp: Warning: 000002266B7AA380: libcurl info message cache 1 (Closing connection 26)
+[2018.03.26-18.13.59:607][937]Cmd: TRANSACTION UNDO
+[2018.03.26-18.13.59:607][937]LogEditorTransaction: Undo Move Components
+[2018.03.26-18.14.00:533][988]Cmd: TRANSACTION UNDO
+[2018.03.26-18.14.00:534][988]LogEditorTransaction: Undo Edit Static Mesh
+[2018.03.26-18.14.06:232][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.10:945][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.03.26-18.14.11:915][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.30:582][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.31:563][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.31:962][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.26-18.14.33:882][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.35:340][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.41:346][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.03.26-18.14.42:320][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.14.45:131][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.03.26-18.14.56:142][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.26-18.15.48:699][182]LogHttp: Warning: 000002269A012B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.15.48:699][182]LogHttp: Warning: 000002269A012B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.15.48:699][182]LogHttp: Warning: 000002269A012B00: libcurl info message cache 1 (Closing connection 27)
+[2018.03.26-18.16.36:801][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.26-18.17.48:730][119]LogHttp: Warning: 00000226AA2A5480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.17.48:730][119]LogHttp: Warning: 00000226AA2A5480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.17.48:730][119]LogHttp: Warning: 00000226AA2A5480: libcurl info message cache 1 (Closing connection 28)
+[2018.03.26-18.18.18:215][377]BlueprintLog: New page: Compile Cube_correct_specchio_1
+[2018.03.26-18.18.19:695][391]LogSavePackage: Save=192.29ms
+[2018.03.26-18.18.19:696][391]LogSavePackage: Moving '../../../../../../Users/Edo/Desktop/Idea_Mia/Saved/Cube_correct_specchio_17D21CE074FB9E9EF31ABDC9ABF950187.tmp' to '../../../../../../Users/Edo/Desktop/Idea_Mia/Content/New_bluprints/specchio_1/Cube_correct_specchio_1.uasset'
+[2018.03.26-18.18.19:699][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Desktop/Idea_Mia/Content/New_bluprints/specchio_1/Cube_correct_specchio_1.uasset
+[2018.03.26-18.19.48:815][626]LogHttp: Warning: 00000226ADFF7B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.19.48:816][626]LogHttp: Warning: 00000226ADFF7B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.19.48:816][626]LogHttp: Warning: 00000226ADFF7B80: libcurl info message cache 1 (Closing connection 29)
+[2018.03.26-18.21.48:874][ 48]LogHttp: Warning: 00000226604F6080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.21.48:874][ 48]LogHttp: Warning: 00000226604F6080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.21.48:874][ 48]LogHttp: Warning: 00000226604F6080: libcurl info message cache 1 (Closing connection 30)
+[2018.03.26-18.22.47:680][625]BlueprintLog: New page: Compile Cube_correct_specchio_1
+[2018.03.26-18.23.48:939][381]LogHttp: Warning: 00000225F9AD5300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.23.48:939][381]LogHttp: Warning: 00000225F9AD5300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.23.48:939][381]LogHttp: Warning: 00000225F9AD5300: libcurl info message cache 1 (Closing connection 31)
+[2018.03.26-18.25.48:982][ 78]LogHttp: Warning: 00000226BEE16B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.25.48:983][ 78]LogHttp: Warning: 00000226BEE16B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.25.48:983][ 78]LogHttp: Warning: 00000226BEE16B00: libcurl info message cache 1 (Closing connection 32)
+[2018.03.26-18.26.04:520][449]LogSlate: Took 0.108937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.26-18.27.24:113][292]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.26-18.27.24:327][292]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'Teleporter Blueprint' does not inherit from 'Static Mesh Component' ( Cast To Teleporter_Blueprint  would always fail).
+[2018.03.26-18.27.24:338][292]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a Teleporter_Blueprint_C, therefore ' Target ' must have a connection.
+[2018.03.26-18.27.24:340][292]LogBlueprint: Error: [Compiler FirstPersonCharacter] Variable node  Get Sfera_teleport  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.03.26-18.27.24:341][292]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Sfera Teleport  could not be found
+[2018.03.26-18.27.24:871][292]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [4130.44] Compile of FirstPersonCharacter failed. 3 Fatal Issue(s) 1 Warning(s) [in 757 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.26-18.27.49:030][872]LogHttp: Warning: 00000226B893D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.27.49:030][872]LogHttp: Warning: 00000226B893D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.27.49:030][872]LogHttp: Warning: 00000226B893D600: libcurl info message cache 1 (Closing connection 33)
+[2018.03.26-18.28.28:259][292]BlueprintLog: New page: Compile Cube_correct_specchio_1
+[2018.03.26-18.28.31:344][353]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.26-18.28.31:446][353]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'Teleporter Blueprint' does not inherit from 'Static Mesh Component' ( Cast To Teleporter_Blueprint  would always fail).
+[2018.03.26-18.28.31:449][353]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a Teleporter_Blueprint_C, therefore ' Target ' must have a connection.
+[2018.03.26-18.28.31:450][353]LogBlueprint: Error: [Compiler FirstPersonCharacter] Variable node  Get Sfera_teleport  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.03.26-18.28.31:450][353]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Sfera Teleport  could not be found
+[2018.03.26-18.28.31:902][353]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [4197.47] Compile of FirstPersonCharacter failed. 3 Fatal Issue(s) 1 Warning(s) [in 558 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.26-18.28.55:721][912]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.26-18.28.55:840][912]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'Teleporter Blueprint' does not inherit from 'Static Mesh Component' ( Cast To Teleporter_Blueprint  would always fail).
+[2018.03.26-18.28.55:844][912]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Sfera Teleport  could not be found
+[2018.03.26-18.28.56:270][912]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [4221.84] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 549 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.26-18.29.31:075][ 75]BlueprintLog: New page: Compile Cube_correct_specchio_1
+[2018.03.26-18.29.31:102][ 75]LogBlueprint: Error: [Compiler Cube_correct_specchio_1] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2018.03.26-18.29.31:103][ 75]LogBlueprint: Error: [Compiler Cube_correct_specchio_1] Variable node  Set reference  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.03.26-18.29.31:626][ 75]LogBlueprint: Warning: [Compiler Cube_correct_specchio_1] [4257.19] Compile of Cube_correct_specchio_1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 550 ms] (/Game/New_bluprints/specchio_1/Cube_correct_specchio_1.Cube_correct_specchio_1)
+[2018.03.26-18.29.48:274][546]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.26-18.29.48:407][546]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'Teleporter Blueprint' does not inherit from 'Static Mesh Component' ( Cast To Teleporter_Blueprint  would always fail).
+[2018.03.26-18.29.48:411][546]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Sfera Teleport  could not be found
+[2018.03.26-18.29.48:827][546]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [4274.39] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 553 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.26-18.29.49:096][549]LogHttp: Warning: 00000226B8B37B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.29.49:096][549]LogHttp: Warning: 00000226B8B37B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.29.49:096][549]LogHttp: Warning: 00000226B8B37B80: libcurl info message cache 1 (Closing connection 34)
+[2018.03.26-18.31.36:787][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.31.37:493][287]LogEditorViewport: Clicking on Actor (LMB): Teleporter_Blueprint_C (Teleporter_Blueprint)
+[2018.03.26-18.31.49:151][702]LogHttp: Warning: 000002269CD05600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.31.49:152][702]LogHttp: Warning: 000002269CD05600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.31.49:152][702]LogHttp: Warning: 000002269CD05600: libcurl info message cache 1 (Closing connection 35)
+[2018.03.26-18.31.57:526][  9]LogActorFactory: Actor Factory created Sphere
+[2018.03.26-18.31.58:200][ 27]LogActorFactory: Actor Factory created Sphere
+[2018.03.26-18.32.23:664][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room3)
+[2018.03.26-18.32.36:949][308]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.03.26-18.32.37:480][309]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.03.26-18.32.46:547][522]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.26-18.32.46:973][522]LogBlueprint: Error: [Compiler FirstPersonCharacter] The type of  Object  is undetermined.  Connect something to  Cast To Teleporter_Blueprint  to imply a specific type.
+[2018.03.26-18.32.47:009][522]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.03.26-18.32.48:091][522]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [4453.66] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,544 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.26-18.33.49:274][328]LogHttp: Warning: 00000226DA413E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.33.49:274][328]LogHttp: Warning: 00000226DA413E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.33.49:274][328]LogHttp: Warning: 00000226DA413E80: libcurl info message cache 1 (Closing connection 36)
+[2018.03.26-18.35.49:317][610]LogHttp: Warning: 00000226DA9BA080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.35.49:317][610]LogHttp: Warning: 00000226DA9BA080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.35.49:317][610]LogHttp: Warning: 00000226DA9BA080: libcurl info message cache 1 (Closing connection 37)
+[2018.03.26-18.36.53:903][342]BlueprintLog: New page: Compile Cube_correct_specchio_1
+[2018.03.26-18.37.49:360][103]LogHttp: Warning: 00000226AA5A7B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.03.26-18.37.49:360][103]LogHttp: Warning: 00000226AA5A7B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.03.26-18.37.49:360][103]LogHttp: Warning: 00000226AA5A7B80: libcurl info message cache 1 (Closing connection 38)
+[2018.03.26-18.38.27:803][136]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.024 s
+[2018.03.26-18.38.27:809][136]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.26-18.38.27:809][136]LogOutputDevice: Error: 
+[2018.03.26-18.38.27:809][136]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 45]
+[2018.03.26-18.38.27:809][136]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'false'! You must pass in fully qualified package names
+[2018.03.26-18.38.27:809][136]LogOutputDevice: Error: Stack: 
+[2018.03.26-18.38.27:809][136]LogOutputDevice: Error: [Callstack] 0x00000000DF012786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000DEDB123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000DEDCB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000E031CF8C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000E023B42F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000E02529FF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000E024B30C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000DFFE9024 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000D3353F6C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CC317F2C UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CC34DF4C UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CC30DE77 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CC3099E5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CC308C79 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000D334B33C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000D3328C47 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CE3853A3 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CE31287C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CE316C0C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.26-18.38.27:826][136]LogOutputDevice: Error: [Callstack] 0x00000000CC21BB5F UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000CC219D59 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000CC1F86B0 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000CC1FA07A UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000CC1F94B7 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000CC22130C UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000CC21411B UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000DCAF69E6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000DCAC75AC UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000DCB60D97 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000DCB4ABE2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000DCB3D253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000E1EFE5EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000E1EF1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000E1F003EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000E1EED5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000001262B85D USER32.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000001262B1EF USER32.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000E1F01516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000002ADC50C8 UE4Editor.exe!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000002ADD5430 UE4Editor.exe!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000002ADD54AA UE4Editor.exe!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000002ADE2379 UE4Editor.exe!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000002ADE3D57 UE4Editor.exe!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x00000000141B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: [Callstack] 0x000000001464EFC1 ntdll.dll!UnknownFunction []
+[2018.03.26-18.38.27:827][136]LogOutputDevice: Error: 
+[2018.03.26-18.38.27:835][136]LogStats:                SubmitErrorReport -  0.000 s

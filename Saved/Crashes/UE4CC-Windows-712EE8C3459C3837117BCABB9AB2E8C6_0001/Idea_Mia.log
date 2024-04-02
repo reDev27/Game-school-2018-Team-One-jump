@@ -1,0 +1,1169 @@
+﻿Log file open, 02/22/18 11:53:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Idea_Mia
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1069825596) SRandInit(1069825596).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163024
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.22-10.53.28:253][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.22-10.53.28:253][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.22-10.53.28:361][  0]LogInit: Computer: DESKTOP-A2FF988
+[2018.02.22-10.53.28:361][  0]LogInit: User: Edo
+[2018.02.22-10.53.28:361][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.22-10.53.28:361][  0]LogInit: High frequency timer resolution =2.343753 MHz
+[2018.02.22-10.53.28:361][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.02.22-10.53.28:361][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.22-10.53.28:361][  0]LogMemory: Process Physical Memory: 272.75 MB used, 272.75 MB peak
+[2018.02.22-10.53.28:361][  0]LogMemory: Process Virtual Memory: 269.13 MB used, 269.13 MB peak
+[2018.02.22-10.53.28:361][  0]LogMemory: Physical Memory: 1932.08 MB used,  2060.51 MB free, 3992.59 MB total
+[2018.02.22-10.53.28:361][  0]LogMemory: Virtual Memory: 673.38 MB used,  2060.51 MB free, 134217728.00 MB total
+[2018.02.22-10.53.28:992][  0]LogInit: Using OS detected language (it-IT).
+[2018.02.22-10.53.28:992][  0]LogInit: Using OS detected locale (it-IT).
+[2018.02.22-10.53.29:186][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the language.
+[2018.02.22-10.53.29:187][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the locale.
+[2018.02.22-10.53.30:041][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.22-10.53.34:250][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.22-10.53.34:271][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.02.22-10.53.34:271][  0]LogD3D11RHI:       128/0/1996 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.22-10.53.34:274][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.22-10.53.34:274][  0]LogD3D11RHI:       0/0/1996 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.22-10.53.34:274][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.22-10.53.34:280][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.22-10.53.34:284][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.22-10.53.34:284][  0]LogWindows: EnumDisplayDevices:
+[2018.02.22-10.53.34:284][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.02.22-10.53.34:284][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.02.22-10.53.34:284][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.02.22-10.53.34:284][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.22-10.53.34:284][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2018.02.22-10.53.34:284][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.22-10.53.34:284][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.22-10.53.34:284][  0]LogRHI: Texture pool is 788 MB (70% of 1126 MB)
+[2018.02.22-10.53.34:300][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.22-10.53.34:350][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.02.22-10.53.34:351][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Intermediate/Shaders/WorkingDirectory/13232/).
+[2018.02.22-10.53.34:351][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edo/AppData/Local/Temp/UnrealShaderWorkingDir/D81BEC174408B3A37EC4CD9737DE4C47/'.
+[2018.02.22-10.53.34:351][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.22-10.53.38:824][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.22-10.53.38:888][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.22-10.53.38:947][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.22-10.53.39:006][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.22-10.53.39:101][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.22-10.53.39:161][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.22-10.53.39:221][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.22-10.53.39:282][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.22-10.53.39:333][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.22-10.53.39:415][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.22-10.53.39:473][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.22-10.53.39:532][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.22-10.53.39:588][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.22-10.53.39:646][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.22-10.53.39:761][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.22-10.53.39:761][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.22-10.53.39:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.22-10.53.40:016][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.22-10.53.40:202][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.22-10.53.40:232][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.22-10.53.40:322][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.22-10.53.40:379][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.22-10.53.40:436][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.22-10.53.40:512][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.22-10.53.40:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.22-10.53.41:674][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.22-10.53.42:486][  0]LogDerivedDataCache: Loaded boot cache 0.80s 78MB C:/Users/Edo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.22-10.53.42:486][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Edo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.22-10.53.42:486][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.22-10.53.42:487][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.22-10.53.42:487][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.22-10.53.42:487][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.22-10.53.42:528][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.22-10.53.42:540][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.22-10.53.42:552][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.22-10.53.42:578][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.22-10.53.42:624][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.22-10.53.42:624][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.22-10.53.45:163][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.22-10.53.46:670][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.22-10.53.46:722][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.22-10.53.46:722][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.22-10.53.46:722][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.22-10.53.46:722][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.22-10.53.46:722][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.22-10.53.46:974][  0]LogNetVersion: Idea_Mia , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1072400568)
+[2018.02.22-10.53.47:727][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.02.22-10.53.49:593][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.088329 seconds
+[2018.02.22-10.53.49:602][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.22-10.53.49:602][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.22-10.53.49:602][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.22-10.53.49:704][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.22-10.54.02:999][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.22-10.54.03:085][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.22-10.54.04:348][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.22-10.54.05:069][  0]SourceControl: Source control is disabled
+[2018.02.22-10.54.05:069][  0]SourceControl: Source control is disabled
+[2018.02.22-10.54.05:152][  0]SourceControl: Source control is disabled
+[2018.02.22-10.54.05:240][  0]SourceControl: Source control is disabled
+[2018.02.22-10.54.06:536][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.22-10.54.06:885][  0]LogOcInput: OculusInput pre-init called
+[2018.02.22-10.54.07:409][  0]LogEngine: Initializing Engine...
+[2018.02.22-10.54.07:429][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.22-10.54.07:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.22-10.54.07:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.22-10.54.07:958][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.22-10.54.07:980][  0]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-10.54.08:119][  0]LogInit: FAudioDevice initialized.
+[2018.02.22-10.54.08:465][  0]LogDerivedDataCache: Saved boot cache 0.35s 78MB C:/Users/Edo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.22-10.54.08:482][  0]LogInit: Texture streaming: Enabled
+[2018.02.22-10.54.08:627][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.22-10.54.08:802][  0]LogInit: Transaction tracking system initialized
+[2018.02.22-10.54.09:281][  0]BlueprintLog: New page: Editor Load
+[2018.02.22-10.54.10:716][  0]LocalizationService: Localization service is disabled
+[2018.02.22-10.54.12:276][  0]LogConsoleResponse: Display: 
+[2018.02.22-10.54.13:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/' took 0.02s
+[2018.02.22-10.54.13:803][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.22-10.54.13:803][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.22-10.54.13:803][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.22-10.54.15:981][  0]SourceControl: Source control is disabled
+[2018.02.22-10.54.15:986][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.22-10.54.15:986][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.02.22-10.54.15:991][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.22-10.54.16:044][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.512ms to complete.
+[2018.02.22-10.54.16:044][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.059
+[2018.02.22-10.54.16:293][  0]LogCollectionManager: Loaded 0 collections in 0.002243 seconds
+[2018.02.22-10.54.16:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Collections/' took 0.01s
+[2018.02.22-10.54.16:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/Developers/Edo/Collections/' took 0.01s
+[2018.02.22-10.54.16:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/Collections/' took 0.01s
+[2018.02.22-10.54.16:401][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.22-10.54.16:411][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2363 classes and 519 folders.
+[2018.02.22-10.54.16:503][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.22-10.54.17:444][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.22-10.54.17:714][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.22-10.54.18:023][  0]LogSlate: Took 0.014706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.22-10.54.18:039][  0]LogSlate: Took 0.013980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.22-10.54.18:054][  0]LogSlate: Took 0.012859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.22-10.54.18:356][  0]LogRenderer: Reallocating scene render targets to support 760x612 Format 9 NumSamples 1 (Frame:1).
+[2018.02.22-10.54.19:074][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.22-10.54.19:074][  0]LogLoad: (Engine Initialization) Total time: 61.32 seconds
+[2018.02.22-10.54.19:074][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.22-10.54.19:074][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.22-10.54.19:476][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.02.22-10.54.19:887][  1]LogAssetRegistry: Asset discovery search completed in 32.1823 seconds
+[2018.02.22-10.54.19:889][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.22-10.54.19:889][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.02.22-10.54.23:622][ 12]LogSlate: Took 0.030631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-10.54.57:045][119]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-10.54.57:063][119]LogAIModule: Creating AISystem for world Menù
+[2018.02.22-10.54.57:091][119]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Menù.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.22-10.54.57:091][119]LightingResults: New page: Lighting Build
+[2018.02.22-10.54.57:143][119]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.02.22-10.54.57:144][119]LoadErrors: New page: Loading map: Menù.umap
+[2018.02.22-10.54.57:146][119]MapCheck: New page: Map Check
+[2018.02.22-10.54.57:146][119]LightingResults: New page: Lighting Build
+[2018.02.22-10.54.57:235][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.22-10.54.57:286][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.22-10.54.57:349][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.135ms to complete.
+[2018.02.22-10.54.57:349][119]LogFileHelpers: Loading map 'Menù' took 0.259
+[2018.02.22-10.55.01:666][327]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-10.55.01:874][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-10.55.01:888][327]PIE: New page: PIE session: Menù (Feb 22, 2018, 12:55:01 PM)
+[2018.02.22-10.55.01:888][327]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Menù
+[2018.02.22-10.55.01:889][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000784s)
+[2018.02.22-10.55.01:891][327]LogAIModule: Creating AISystem for world Menù
+[2018.02.22-10.55.01:891][327]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2018.02.22-10.55.01:891][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Menù.Menù to /Game/FirstPersonBP/Maps/UEDPIE_0_Menù.Menù (0.002270s)
+[2018.02.22-10.55.01:908][327]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-10.55.01:926][327]LogInit: FAudioDevice initialized.
+[2018.02.22-10.55.03:574][327]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-10.55.03:584][327]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Menù.Menù up for play (max tick rate 60) at 2018.02.22-11.55.03
+[2018.02.22-10.55.03:584][327]LogWorld: Bringing up level for play took: 0.000812
+[2018.02.22-10.55.03:641][327]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.22-10.55.03:648][327]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Menù 1.883
+[2018.02.22-10.55.03:681][327]LogRenderer: Reallocating scene render targets to support 916x612 Format 9 NumSamples 1 (Frame:1).
+[2018.02.22-10.55.20:720][ 59]LogHttp: Warning: 0000028996FAFA00: request failed, libcurl error: 35 (SSL connect error)
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 0 (  Trying 52.45.95.182...)
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (52.45.95.182) port 443 (#0))
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 4 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 6 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.02.22-10.55.20:721][ 59]LogHttp: Warning: 0000028996FAFA00: libcurl info message cache 7 (Closing connection 0)
+[2018.02.22-10.55.46:773][187]LogAIModule: Creating AISystem for world Primary_map
+[2018.02.22-10.55.50:897][365]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-10.55.50:928][365]Cmd: MAP LOAD FILE="../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.22-10.55.50:928][365]LightingResults: New page: Lighting Build
+[2018.02.22-10.55.50:929][365]LoadErrors: New page: Loading map: Specchio.umap
+[2018.02.22-10.55.50:930][365]MapCheck: New page: Map Check
+[2018.02.22-10.55.50:930][365]LightingResults: New page: Lighting Build
+[2018.02.22-10.55.51:078][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.22-10.55.51:126][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.22-10.55.51:199][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.149ms to complete.
+[2018.02.22-10.55.51:199][365]LogFileHelpers: Loading map 'Specchio' took 0.272
+[2018.02.22-10.56.04:794][827]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.22-10.56.05:582][832]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.IdeaMia
+[2018.02.22-10.56.05:582][832]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.22-10.56.05:582][832]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.02.22-10.56.05:582][832]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.22-10.56.05:592][832]LogTemp: BranchPath = DESKTOP-A2FF988/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-A2FF988/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.02.22-10.56.05:873][837]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Edo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.22-10.57.21:079][393]LogHttp: Warning: 00000289A7A4AB00: request failed, libcurl error: 35 (SSL connect error)
+[2018.02.22-10.57.21:079][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 1 (  Trying 52.21.134.14...)
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.134.14) port 443 (#1))
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.02.22-10.57.21:080][393]LogHttp: Warning: 00000289A7A4AB00: libcurl info message cache 8 (Closing connection 1)
+[2018.02.22-10.58.27:074][835]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-10.58.27:100][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-10.58.27:100][835]PIE: New page: PIE session: Specchio (Feb 22, 2018, 12:58:27 PM)
+[2018.02.22-10.58.27:100][835]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-10.58.27:105][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004088s)
+[2018.02.22-10.58.27:105][835]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-10.58.27:106][835]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.02.22-10.58.27:106][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005370s)
+[2018.02.22-10.58.27:123][835]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-10.58.27:130][835]LogInit: FAudioDevice initialized.
+[2018.02.22-10.58.27:169][835]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-10.58.27:172][835]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-11.58.27
+[2018.02.22-10.58.27:172][835]LogWorld: Bringing up level for play took: 0.002191
+[2018.02.22-10.58.27:179][835]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.585
+[2018.02.22-10.58.45:282][527]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-10.58.45:323][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-10.58.45:324][527]PIE: New page: PIE session: Specchio (Feb 22, 2018, 12:58:45 PM)
+[2018.02.22-10.58.45:324][527]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-10.58.45:331][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007547s)
+[2018.02.22-10.58.45:333][527]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-10.58.45:333][527]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2018.02.22-10.58.45:334][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.009749s)
+[2018.02.22-10.58.45:363][527]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-10.58.45:371][527]LogInit: FAudioDevice initialized.
+[2018.02.22-10.58.45:415][527]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-10.58.45:421][527]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-11.58.45
+[2018.02.22-10.58.45:421][527]LogWorld: Bringing up level for play took: 0.004256
+[2018.02.22-10.58.45:431][527]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.333
+[2018.02.22-10.59.32:212][444]LogHttp: Warning: 00000289E298AB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.22-10.59.32:212][444]LogHttp: Warning: 00000289E298AB00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.02.22-10.59.32:212][444]LogHttp: Warning: 00000289E298AB00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.22-10.59.32:212][444]LogHttp: Warning: 00000289E298AB00: libcurl info message cache 2 (Closing connection 2)
+[2018.02.22-10.59.36:832][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.22-10.59.40:180][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.02.22-10.59.42:193][784]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.02.22-10.59.51:431][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pyramid)
+[2018.02.22-10.59.56:622][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.22-11.00.00:572][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.22-11.00.02:276][453]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.02.22-11.00.03:220][483]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.02.22-11.00.18:344][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.02.22-11.00.22:007][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2018.02.22-11.00.26:900][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2018.02.22-11.00.37:218][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.22-11.00.46:245][910]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.00.46:271][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.00.46:271][910]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:00:46 PM)
+[2018.02.22-11.00.46:271][910]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.00.46:277][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006002s)
+[2018.02.22-11.00.46:278][910]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.00.46:278][910]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2018.02.22-11.00.46:279][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007636s)
+[2018.02.22-11.00.46:299][910]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.00.46:306][910]LogInit: FAudioDevice initialized.
+[2018.02.22-11.00.46:351][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.00.46:354][910]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.00.46
+[2018.02.22-11.00.46:354][910]LogWorld: Bringing up level for play took: 0.002431
+[2018.02.22-11.00.46:361][910]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.597
+[2018.02.22-11.01.32:266][775]LogHttp: Warning: 00000289A758F280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.22-11.01.32:267][775]LogHttp: Warning: 00000289A758F280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.22-11.01.32:267][775]LogHttp: Warning: 00000289A758F280: libcurl info message cache 1 (Closing connection 3)
+[2018.02.22-11.02.50:155][210]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.03.18:710][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball2)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: request failed, libcurl error: 35 (SSL connect error)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 0 (  Trying 35.153.41.199...)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (35.153.41.199) port 443 (#4))
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 4 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 6 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.02.22-11.03.32:505][723]LogHttp: Warning: 00000289E153E080: libcurl info message cache 7 (Closing connection 4)
+[2018.02.22-11.04.10:898][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2018.02.22-11.05.06:806][168]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.22-11.05.06:929][168]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.02.22-11.05.08:431][168]LogSlate: Took 0.010830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.22-11.05.08:609][169]LogSlate: Took 0.006936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.22-11.06.15:533][205]BlueprintLog: New page: Compile Cube_Answer_correct_Blueprint
+[2018.02.22-11.06.16:815][217]LogSavePackage: Save=59.81ms
+[2018.02.22-11.06.16:815][217]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Cube_Answer_correct_BlueprintBA15FF984E474A8748F9E38C3E7B3E80.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/New_bluprints/Cube_Answer_correct_Blueprint.uasset'
+[2018.02.22-11.06.16:827][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/New_bluprints/Cube_Answer_correct_Blueprint.uasset
+[2018.02.22-11.06.17:248][231]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.06.17:295][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.06.17:295][231]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:06:17 PM)
+[2018.02.22-11.06.17:295][231]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.06.17:301][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005778s)
+[2018.02.22-11.06.17:302][231]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.06.17:302][231]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2018.02.22-11.06.17:303][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007415s)
+[2018.02.22-11.06.17:334][231]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.06.17:341][231]LogInit: FAudioDevice initialized.
+[2018.02.22-11.06.17:386][231]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.06.17:389][231]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.06.17
+[2018.02.22-11.06.17:389][231]LogWorld: Bringing up level for play took: 0.002864
+[2018.02.22-11.06.17:399][231]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.365
+[2018.02.22-11.06.31:739][790]BlueprintLog: New page: Compile Cube_Answer_correct_Blueprint
+[2018.02.22-11.06.32:763][805]LogSavePackage: Save=31.93ms
+[2018.02.22-11.06.32:763][805]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Cube_Answer_correct_Blueprint8F77568F4E9148EEE1A8C0A103DC0905.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/New_bluprints/Cube_Answer_correct_Blueprint.uasset'
+[2018.02.22-11.06.32:768][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/New_bluprints/Cube_Answer_correct_Blueprint.uasset
+[2018.02.22-11.06.33:482][830]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.06.33:512][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.06.33:512][830]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:06:33 PM)
+[2018.02.22-11.06.33:512][830]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.06.33:517][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004462s)
+[2018.02.22-11.06.33:518][830]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.06.33:518][830]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2018.02.22-11.06.33:518][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.006087s)
+[2018.02.22-11.06.33:546][830]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.06.33:552][830]LogInit: FAudioDevice initialized.
+[2018.02.22-11.06.33:600][830]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.06.33:603][830]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.06.33
+[2018.02.22-11.06.33:603][830]LogWorld: Bringing up level for play took: 0.002616
+[2018.02.22-11.06.33:612][830]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.152
+[2018.02.22-11.06.42:815][115]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.06.42:820][115]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.06.42:878][115]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2
+[2018.02.22-11.06.42:882][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003989s)
+[2018.02.22-11.06.42:882][115]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.06.42:883][115]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.02.22-11.06.42:883][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio_LV2.Specchio_LV2 to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 (0.005271s)
+[2018.02.22-11.06.42:883][115]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.06.42:885][115]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 up for play (max tick rate 60) at 2018.02.22-12.06.42
+[2018.02.22-11.06.42:886][115]LogWorld: Bringing up level for play took: 0.002036
+[2018.02.22-11.06.42:905][115]LogLoad: Took 0.084895 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2)
+[2018.02.22-11.06.51:176][371]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.06.51:180][371]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.06.51:216][371]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2
+[2018.02.22-11.06.51:220][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004097s)
+[2018.02.22-11.06.51:221][371]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.06.51:221][371]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.02.22-11.06.51:221][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio_LV2.Specchio_LV2 to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 (0.005307s)
+[2018.02.22-11.06.51:221][371]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.06.51:224][371]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 up for play (max tick rate 60) at 2018.02.22-12.06.51
+[2018.02.22-11.06.51:224][371]LogWorld: Bringing up level for play took: 0.002408
+[2018.02.22-11.06.51:228][371]LogLoad: Took 0.047549 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2)
+[2018.02.22-11.07.28:123][586]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-11.07.37:341][910]LogSavePackage: Save=104.44ms
+[2018.02.22-11.07.37:341][910]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Specchio_Auto17307E91F4F45DA425EE2C5BCA8C36414.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Autosaves/Game/FirstPersonBP/Maps/Specchio_Auto1.umap'
+[2018.02.22-11.07.37:344][910]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Autosaves/Game/FirstPersonBP/Maps/Specchio_Auto1.umap
+[2018.02.22-11.07.37:356][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Specchio' took 0.254
+[2018.02.22-11.07.37:356][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.254
+[2018.02.22-11.08.40:960][111]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.02.22-11.08.40:961][111]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.02.22-11.08.40:961][111]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.02.22-11.08.40:961][111]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.02.22-11.08.40:968][111]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.02.22-11.08.43:128][180]LogEditorTransaction: Undo Move Node
+[2018.02.22-11.08.54:671][595]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.08.54:712][595]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.22-11.08.54:716][595]LogPlayLevel: [PlayLevel] Compiling Cube_Answer_correct_Blueprint before play...
+[2018.02.22-11.08.55:252][595]LogPlayLevel: PlayLevel: Blueprint regeneration took 540 ms (1 blueprints)
+[2018.02.22-11.08.55:252][595]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:08:55 PM)
+[2018.02.22-11.08.55:252][595]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.08.55:257][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004220s)
+[2018.02.22-11.08.55:257][595]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.08.55:258][595]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.02.22-11.08.55:258][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005591s)
+[2018.02.22-11.08.55:285][595]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.08.55:293][595]LogInit: FAudioDevice initialized.
+[2018.02.22-11.08.55:339][595]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.08.55:342][595]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.08.55
+[2018.02.22-11.08.55:342][595]LogWorld: Bringing up level for play took: 0.002993
+[2018.02.22-11.08.55:350][595]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 1.586
+[2018.02.22-11.09.01:715][788]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.09.01:747][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.09.01:747][788]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:09:01 PM)
+[2018.02.22-11.09.01:747][788]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.09.01:751][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003998s)
+[2018.02.22-11.09.01:752][788]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.09.01:752][788]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2018.02.22-11.09.01:752][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005034s)
+[2018.02.22-11.09.01:781][788]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.09.01:786][788]LogInit: FAudioDevice initialized.
+[2018.02.22-11.09.01:829][788]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.09.01:834][788]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.09.01
+[2018.02.22-11.09.01:834][788]LogWorld: Bringing up level for play took: 0.003508
+[2018.02.22-11.09.01:841][788]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.077
+[2018.02.22-11.09.12:256][120]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.09.12:261][120]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.09.12:294][120]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2
+[2018.02.22-11.09.12:298][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003942s)
+[2018.02.22-11.09.12:298][120]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.09.12:298][120]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.02.22-11.09.12:299][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio_LV2.Specchio_LV2 to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 (0.005111s)
+[2018.02.22-11.09.12:299][120]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.09.12:301][120]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 up for play (max tick rate 60) at 2018.02.22-12.09.12
+[2018.02.22-11.09.12:301][120]LogWorld: Bringing up level for play took: 0.002091
+[2018.02.22-11.09.12:305][120]LogLoad: Took 0.044041 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2)
+[2018.02.22-11.09.21:159][405]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.09.21:164][405]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.09.21:197][405]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2
+[2018.02.22-11.09.21:201][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003959s)
+[2018.02.22-11.09.21:202][405]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.09.21:202][405]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.02.22-11.09.21:202][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio_LV2.Specchio_LV2 to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 (0.005117s)
+[2018.02.22-11.09.21:203][405]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.09.21:205][405]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 up for play (max tick rate 60) at 2018.02.22-12.09.21
+[2018.02.22-11.09.21:205][405]LogWorld: Bringing up level for play took: 0.002197
+[2018.02.22-11.09.21:208][405]LogLoad: Took 0.044027 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2)
+[2018.02.22-11.11.26:943][345]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.11.26:989][345]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.22-11.11.26:992][345]LogPlayLevel: [PlayLevel] Compiling Cube_Question_incorrect before play...
+[2018.02.22-11.11.27:606][345]LogPlayLevel: [PlayLevel] Compiling Incorrect before play...
+[2018.02.22-11.11.27:785][345]LogPlayLevel: PlayLevel: Blueprint regeneration took 796 ms (2 blueprints)
+[2018.02.22-11.11.27:785][345]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:11:27 PM)
+[2018.02.22-11.11.27:785][345]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.11.27:790][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003998s)
+[2018.02.22-11.11.27:790][345]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.11.27:791][345]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.02.22-11.11.27:791][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005370s)
+[2018.02.22-11.11.27:820][345]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.11.27:828][345]LogInit: FAudioDevice initialized.
+[2018.02.22-11.11.27:881][345]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.11.27:885][345]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.11.27
+[2018.02.22-11.11.27:885][345]LogWorld: Bringing up level for play took: 0.003537
+[2018.02.22-11.11.27:895][345]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.131
+[2018.02.22-11.11.45:724][ 46]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.11.45:753][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.11.45:753][ 46]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:11:45 PM)
+[2018.02.22-11.11.45:753][ 46]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.11.45:758][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004591s)
+[2018.02.22-11.11.45:758][ 46]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.11.45:759][ 46]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.02.22-11.11.45:759][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005719s)
+[2018.02.22-11.11.45:788][ 46]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.11.45:794][ 46]LogInit: FAudioDevice initialized.
+[2018.02.22-11.11.45:840][ 46]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.11.45:844][ 46]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.11.45
+[2018.02.22-11.11.45:844][ 46]LogWorld: Bringing up level for play took: 0.003321
+[2018.02.22-11.11.45:853][ 46]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.088
+[2018.02.22-11.12.00:871][635]LogPackageName: SearchForPackageOnDisk took   0.119s, but failed to resolve None.umap.
+[2018.02.22-11.12.00:871][635]LogLevel: Warning: WARNING: The map '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' does not exist.
+[2018.02.22-11.12.00:964][635]LogPackageName: SearchForPackageOnDisk took   0.092s, but failed to resolve None.umap.
+[2018.02.22-11.12.00:965][635]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.02.22-11.12.00:978][635]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.02.22-11.12.00:979][635]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.02.22-11.12.00:979][635]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.02.22-11.12.00:979][635]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.02.22-11.12.00:979][635]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.02.22-11.12.00:979][635]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.02.22-11.12.15:474][230]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.12.15:501][230]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.22-11.12.15:504][230]LogPlayLevel: [PlayLevel] Compiling Incorrect before play...
+[2018.02.22-11.12.15:645][230]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (1 blueprints)
+[2018.02.22-11.12.15:645][230]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:12:15 PM)
+[2018.02.22-11.12.15:645][230]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.12.15:649][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004007s)
+[2018.02.22-11.12.15:650][230]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.12.15:650][230]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.02.22-11.12.15:650][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005139s)
+[2018.02.22-11.12.15:678][230]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.12.15:686][230]LogInit: FAudioDevice initialized.
+[2018.02.22-11.12.15:728][230]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.12.15:731][230]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.12.15
+[2018.02.22-11.12.15:731][230]LogWorld: Bringing up level for play took: 0.003082
+[2018.02.22-11.12.15:739][230]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.025
+[2018.02.22-11.14.27:566][418]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.14.27:601][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.14.27:601][418]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:14:27 PM)
+[2018.02.22-11.14.27:601][418]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.14.27:606][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004600s)
+[2018.02.22-11.14.27:606][418]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.14.27:607][418]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.02.22-11.14.27:607][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005882s)
+[2018.02.22-11.14.27:633][418]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.14.27:640][418]LogInit: FAudioDevice initialized.
+[2018.02.22-11.14.27:686][418]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.14.27:689][418]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.14.27
+[2018.02.22-11.14.27:690][418]LogWorld: Bringing up level for play took: 0.002886
+[2018.02.22-11.14.27:703][418]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.061
+[2018.02.22-11.14.38:958][862]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.14.38:960][862]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.14.38:997][862]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2
+[2018.02.22-11.14.39:002][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004145s)
+[2018.02.22-11.14.39:002][862]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.14.39:003][862]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.02.22-11.14.39:003][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio_LV2.Specchio_LV2 to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 (0.005410s)
+[2018.02.22-11.14.39:003][862]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.14.39:005][862]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 up for play (max tick rate 60) at 2018.02.22-12.14.39
+[2018.02.22-11.14.39:006][862]LogWorld: Bringing up level for play took: 0.002286
+[2018.02.22-11.14.39:009][862]LogLoad: Took 0.049360 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2)
+[2018.02.22-11.14.52:580][401]LogNet: Browse: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.14.52:581][401]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Specchio_LV2
+[2018.02.22-11.14.52:617][401]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2
+[2018.02.22-11.14.52:621][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004127s)
+[2018.02.22-11.14.52:622][401]LogAIModule: Creating AISystem for world Specchio_LV2
+[2018.02.22-11.14.52:622][401]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2018.02.22-11.14.52:622][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio_LV2.Specchio_LV2 to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 (0.005273s)
+[2018.02.22-11.14.52:623][401]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.14.52:625][401]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2.Specchio_LV2 up for play (max tick rate 60) at 2018.02.22-12.14.52
+[2018.02.22-11.14.52:625][401]LogWorld: Bringing up level for play took: 0.002244
+[2018.02.22-11.14.52:629][401]LogLoad: Took 0.047057 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Specchio_LV2)
+[2018.02.22-11.18.11:195][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.18.11:231][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.18.11:231][559]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:18:11 PM)
+[2018.02.22-11.18.11:231][559]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.18.11:235][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004308s)
+[2018.02.22-11.18.11:236][559]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.18.11:236][559]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.02.22-11.18.11:236][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005489s)
+[2018.02.22-11.18.11:269][559]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.18.11:276][559]LogInit: FAudioDevice initialized.
+[2018.02.22-11.18.11:324][559]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.18.11:330][559]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.18.11
+[2018.02.22-11.18.11:330][559]LogWorld: Bringing up level for play took: 0.004353
+[2018.02.22-11.18.11:340][559]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.424
+[2018.02.22-11.20.20:838][364]LogBlueprint: Warning: [Compiler WBP_Restart] Set : 'FollowPlayer' variable not found. Base class was probably changed. /Game/SkywardMuffin/UI/WBP_Restart.WBP_Restart
+[2018.02.22-11.20.20:838][364]LogBlueprint: Warning: [Compiler WBP_Restart] Set FollowPlayer : 'FollowPlayer' variable not found. Base class was probably changed. /Game/SkywardMuffin/UI/WBP_Restart.WBP_Restart
+[2018.02.22-11.20.20:879][364]LogBlueprint: Error: [Compiler WBP_Restart] In use pin  <Unnamed>  no longer exists on node  Reset . Please refresh node or break links to remove pin.
+[2018.02.22-11.20.20:879][364]LogBlueprint: Error: [Compiler WBP_Restart] Could not find a function named "Reset" in 'WBP_Restart'.
+Make sure 'WBP_Restart' has been compiled for  Reset
+[2018.02.22-11.20.20:879][364]LogBlueprint: Warning: [Compiler WBP_Restart] Could not find a variable named "FollowPlayer" in 'WBP_Restart'.
+Make sure 'WBP_Restart' has been compiled for  Set FollowPlayer
+[2018.02.22-11.20.20:885][364]LogBlueprint: Error: [Compiler WBP_Restart] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.02.22-11.20.20:886][364]LogBlueprint: Error: [Compiler WBP_Restart] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.02.22-11.20.20:892][364]LogBlueprint: Error: [Compiler WBP_Restart] The property associated with  Follow Player  could not be found
+[2018.02.22-11.20.20:897][364]LogBlueprint: Warning: [Compiler WBP_Restart] [1623.14] Compile of WBP_Restart failed. 5 Fatal Issue(s) 3 Warning(s) [in 108 ms] (/Game/SkywardMuffin/UI/WBP_Restart.WBP_Restart)
+[2018.02.22-11.20.40:372][853]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.21.12:888][741]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.23.50:268][791]LogMaterial: Missing cached shader map for material M_Burst, compiling. 
+[2018.02.22-11.23.50:573][791]LogMaterial: Missing cached shader map for material m_flare_01, compiling. 
+[2018.02.22-11.23.50:655][791]LogMaterial: Missing cached shader map for material M_radial_ramp, compiling. 
+[2018.02.22-11.23.50:719][791]LogMaterial: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2018.02.22-11.23.54:183][888]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.24.02:003][ 54]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.24.02:141][ 54]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.22-11.24.02:145][ 54]LogPlayLevel: [PlayLevel] Compiling Incorrect before play...
+[2018.02.22-11.24.02:380][ 54]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (1 blueprints)
+[2018.02.22-11.24.17:469][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.24.20:257][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.24.21:544][173]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:24:21 PM)
+[2018.02.22-11.24.21:545][173]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.24.21:550][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005329s)
+[2018.02.22-11.24.21:551][173]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.24.21:551][173]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.02.22-11.24.21:551][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.006644s)
+[2018.02.22-11.24.21:585][173]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.24.21:592][173]LogInit: FAudioDevice initialized.
+[2018.02.22-11.24.21:648][173]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.24.21:652][173]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.24.21
+[2018.02.22-11.24.21:710][173]LogWorld: Bringing up level for play took: 0.061260
+[2018.02.22-11.24.21:737][173]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 1.973
+[2018.02.22-11.24.31:330][517]LogCharacterMovement: BP_Muffin_48 is stuck and failed to move! Velocity: X=5.46 Y=-299.95 Z=0.00 Location: X=-1335.44 Y=-375.90 Z=79.18 Normal: X=0.91 Y=0.15 Z=0.38 PenetrationDepth:0.398 Actor:Cube Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.02.22-11.24.43:941][946]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.24.44:035][946]LogBlueprint: Error: [Compiler WBP_Restart] In use pin  <Unnamed>  no longer exists on node  Reset . Please refresh node or break links to remove pin.
+[2018.02.22-11.24.44:035][946]LogBlueprint: Error: [Compiler WBP_Restart] Could not find a function named "Reset" in 'WBP_Restart'.
+Make sure 'WBP_Restart' has been compiled for  Reset
+[2018.02.22-11.24.44:036][946]LogBlueprint: Warning: [Compiler WBP_Restart] Could not find a variable named "FollowPlayer" in 'WBP_Restart'.
+Make sure 'WBP_Restart' has been compiled for  Set FollowPlayer
+[2018.02.22-11.24.44:036][946]LogBlueprint: Error: [Compiler WBP_Restart] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.02.22-11.24.44:036][946]LogBlueprint: Error: [Compiler WBP_Restart] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.02.22-11.24.44:041][946]LogBlueprint: Error: [Compiler WBP_Restart] The property associated with  Follow Player  could not be found
+[2018.02.22-11.24.44:058][946]LogBlueprint: Warning: [Compiler WBP_Restart] [1886.30] Compile of WBP_Restart failed. 5 Fatal Issue(s) 1 Warning(s) [in 87 ms] (/Game/SkywardMuffin/UI/WBP_Restart.WBP_Restart)
+[2018.02.22-11.24.49:589][ 89]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.24.49:635][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.25.41:356][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.25.41:393][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.26.02:172][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.22-11.26.02:336][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.22-11.27.04:276][280]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.27.04:383][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.27.04:383][280]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:27:04 PM)
+[2018.02.22-11.27.04:383][280]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.27.04:416][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032471s)
+[2018.02.22-11.27.04:417][280]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.27.04:417][280]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2018.02.22-11.27.04:418][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.034067s)
+[2018.02.22-11.27.04:445][280]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.27.04:467][280]LogInit: FAudioDevice initialized.
+[2018.02.22-11.27.04:843][280]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.27.04:846][280]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.27.04
+[2018.02.22-11.27.04:847][280]LogWorld: Bringing up level for play took: 0.003262
+[2018.02.22-11.27.04:855][280]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 1.091
+[2018.02.22-11.27.38:112][531]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.27.38:190][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.27.38:190][531]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:27:38 PM)
+[2018.02.22-11.27.38:190][531]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.27.38:196][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005836s)
+[2018.02.22-11.27.38:197][531]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.27.38:197][531]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.02.22-11.27.38:197][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007131s)
+[2018.02.22-11.27.38:228][531]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.27.38:235][531]LogInit: FAudioDevice initialized.
+[2018.02.22-11.27.38:298][531]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.27.38:302][531]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.27.38
+[2018.02.22-11.27.38:303][531]LogWorld: Bringing up level for play took: 0.004225
+[2018.02.22-11.27.38:311][531]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.547
+[2018.02.22-11.28.05:534][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.28.05:565][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.28.05:565][422]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:28:05 PM)
+[2018.02.22-11.28.05:565][422]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.28.05:570][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004519s)
+[2018.02.22-11.28.05:570][422]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.28.05:571][422]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.02.22-11.28.05:571][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005918s)
+[2018.02.22-11.28.05:600][422]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.28.05:607][422]LogInit: FAudioDevice initialized.
+[2018.02.22-11.28.05:647][422]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.28.05:651][422]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.28.05
+[2018.02.22-11.28.05:651][422]LogWorld: Bringing up level for play took: 0.003656
+[2018.02.22-11.28.05:659][422]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.106
+[2018.02.22-11.28.54:947][224]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.28.54:973][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.28.54:973][224]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:28:54 PM)
+[2018.02.22-11.28.54:974][224]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.28.54:980][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006204s)
+[2018.02.22-11.28.54:980][224]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.28.54:981][224]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2018.02.22-11.28.54:981][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007536s)
+[2018.02.22-11.28.55:011][224]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.28.55:018][224]LogInit: FAudioDevice initialized.
+[2018.02.22-11.28.55:059][224]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.28.55:064][224]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.28.55
+[2018.02.22-11.28.55:065][224]LogWorld: Bringing up level for play took: 0.005415
+[2018.02.22-11.28.55:072][224]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.692
+[2018.02.22-11.29.16:546][985]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.22-11.29.17:340][  8]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (Post Process)
+[2018.02.22-11.29.45:001][962]LogSavePackage: Save=169.92ms
+[2018.02.22-11.29.45:002][962]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/SpecchioD77C5CA94569C078796AA5989542EB8F.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap'
+[2018.02.22-11.29.45:021][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap
+[2018.02.22-11.29.46:200][  3]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.29.46:234][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.29.46:234][  3]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:29:46 PM)
+[2018.02.22-11.29.46:234][  3]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.29.46:239][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004380s)
+[2018.02.22-11.29.46:239][  3]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.29.46:239][  3]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.02.22-11.29.46:240][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005437s)
+[2018.02.22-11.29.46:265][  3]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.29.46:291][  3]LogInit: FAudioDevice initialized.
+[2018.02.22-11.29.46:333][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.29.46:337][  3]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.29.46
+[2018.02.22-11.29.46:337][  3]LogWorld: Bringing up level for play took: 0.003991
+[2018.02.22-11.29.46:345][  3]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.581
+[2018.02.22-11.29.50:487][163]LogCharacterMovement: BP_Muffin_48 is stuck and failed to move! Velocity: X=1.17 Y=-300.00 Z=0.00 Location: X=-1332.22 Y=-390.02 Z=72.44 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:6.614 Actor:frozen_Room_0 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.02.22-11.30.11:515][854]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.285 s
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: 
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1170]
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: Property (ObjectProperty /Game/SkywardMuffin/Characters/Muffin/BP_Muffin.BP_Muffin_C:RestartWidget) is not an object or interface class
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: Stack: 
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000D8922786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000D86C123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000D86DB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C45D673D UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C459D243 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C4332686 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C438ED1C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C438D319 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C4333D5A UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C440D23E UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C43E74F7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C43E7313 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C44B663A UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C433132F UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C43C1CAF UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C4506740 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C4463D80 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C4465F44 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C44D0B5E UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C44CEA6A UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C44D8483 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C44DAF48 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C451DF67 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000CBD379B8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000C453EC97 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D204 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000CBCF9157 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000CBCF8F20 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000CBCF8F20 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:525][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000CBCFD281 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000CBCF8F20 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000CBCFD281 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: [Callstack] 0x00000000DB51C10A UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.02.22-11.30.11:526][854]LogOutputDevice: Error: 
+[2018.02.22-11.30.11:563][854]LogStats:                SubmitErrorReport -  0.029 s
+[2018.02.22-11.30.19:591][854]LogStats:                    SendNewReport -  8.028 s
+[2018.02.22-11.30.19:591][854]LogStats:             FDebug::EnsureFailed - 10.361 s
+[2018.02.22-11.31.10:981][554]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.31.11:373][554]LogBlueprint: Error: [Compiler BP_Muffin] Can't connect pins  Restart Widget  and  Target : DEADCLASS WBP Restart C 0 Object Reference is not compatible with Object Reference.
+[2018.02.22-11.31.11:373][554]LogBlueprint: Error: [Compiler BP_Muffin] Can't connect pins  Target  and  Restart Widget : Object Reference is not compatible with DEADCLASS WBP Restart C 0 Object Reference.
+[2018.02.22-11.31.11:373][554]LogBlueprint: Warning: [Compiler BP_Muffin] Could not find a variable named "ShowRestart" in 'BP_Muffin'.
+Make sure 'BP_Muffin' has been compiled for  Get ShowRestart
+[2018.02.22-11.31.11:384][554]LogBlueprint: Error: [Compiler BP_Muffin] Spawn node  Create Widget  must have a class specified.
+[2018.02.22-11.31.12:060][554]LogBlueprint: Warning: [Compiler BP_Muffin] [2274.30] Compile of BP_Muffin failed. 3 Fatal Issue(s) 1 Warning(s) [in 1,078 ms] (/Game/SkywardMuffin/Characters/Muffin/BP_Muffin.BP_Muffin)
+[2018.02.22-11.31.14:223][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.31.14:301][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.32.18:179][828]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.32.18:376][828]LogBlueprint: Error: [Compiler BP_Muffin] Can't connect pins  Restart Widget  and  Target : DEADCLASS WBP Restart C 0 Object Reference is not compatible with Object Reference.
+[2018.02.22-11.32.18:376][828]LogBlueprint: Error: [Compiler BP_Muffin] Can't connect pins  Target  and  Restart Widget : Object Reference is not compatible with DEADCLASS WBP Restart C 0 Object Reference.
+[2018.02.22-11.32.18:376][828]LogBlueprint: Warning: [Compiler BP_Muffin] Could not find a variable named "ShowRestart" in 'BP_Muffin'.
+Make sure 'BP_Muffin' has been compiled for  Get ShowRestart
+[2018.02.22-11.32.18:377][828]LogBlueprint: Error: [Compiler BP_Muffin] Spawn node  Create Widget  must have a class specified.
+[2018.02.22-11.32.18:869][828]LogBlueprint: Warning: [Compiler BP_Muffin] [2341.11] Compile of BP_Muffin failed. 3 Fatal Issue(s) 1 Warning(s) [in 689 ms] (/Game/SkywardMuffin/Characters/Muffin/BP_Muffin.BP_Muffin)
+[2018.02.22-11.32.37:784][364]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.32.37:971][364]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.22-11.32.37:976][364]LogPlayLevel: [PlayLevel] Compiling ABP_Muffin before play...
+[2018.02.22-11.32.38:007][364]LogPlayLevel: [PlayLevel]   Compiling BP_Muffin as a dependent...
+[2018.02.22-11.32.38:549][364]LogPlayLevel: PlayLevel: Blueprint regeneration took 578 ms (2 blueprints)
+[2018.02.22-11.32.38:549][364]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:32:38 PM)
+[2018.02.22-11.32.38:549][364]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.32.38:569][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019252s)
+[2018.02.22-11.32.38:569][364]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.32.38:570][364]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2018.02.22-11.32.38:570][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.020498s)
+[2018.02.22-11.32.38:593][364]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.32.38:600][364]LogInit: FAudioDevice initialized.
+[2018.02.22-11.32.38:650][364]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.32.38:655][364]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.32.38
+[2018.02.22-11.32.38:655][364]LogWorld: Bringing up level for play took: 0.004110
+[2018.02.22-11.32.38:666][364]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.902
+[2018.02.22-11.32.41:586][427]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.32.42:443][433]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.32.42:482][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.32.42:482][433]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:32:42 PM)
+[2018.02.22-11.32.42:483][433]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.32.42:487][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004632s)
+[2018.02.22-11.32.42:493][433]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.32.42:493][433]LogPlayLevel: PIE: World Init took: (0.005762s)
+[2018.02.22-11.32.42:493][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.010776s)
+[2018.02.22-11.32.42:523][433]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.32.42:529][433]LogInit: FAudioDevice initialized.
+[2018.02.22-11.32.42:576][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.32.42:579][433]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.32.42
+[2018.02.22-11.32.42:580][433]LogWorld: Bringing up level for play took: 0.003607
+[2018.02.22-11.32.42:591][433]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.827
+[2018.02.22-11.33.24:527][900]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.33.26:849][954]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.33.26:889][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.33.26:890][954]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:33:26 PM)
+[2018.02.22-11.33.26:890][954]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.33.26:894][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004722s)
+[2018.02.22-11.33.26:895][954]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.33.26:895][954]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.02.22-11.33.26:896][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.006052s)
+[2018.02.22-11.33.26:924][954]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.33.26:930][954]LogInit: FAudioDevice initialized.
+[2018.02.22-11.33.26:973][954]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.33.26:976][954]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.33.26
+[2018.02.22-11.33.26:977][954]LogWorld: Bringing up level for play took: 0.003311
+[2018.02.22-11.33.26:987][954]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.777
+[2018.02.22-11.34.00:837][934]LogSavePackage: Save=149.02ms
+[2018.02.22-11.34.00:838][934]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Specchio5BBE25D947039E6F3A7E9EBBB87B5CBD.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap'
+[2018.02.22-11.34.00:842][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap
+[2018.02.22-11.34.01:834][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.34.01:871][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.34.01:872][965]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:34:01 PM)
+[2018.02.22-11.34.01:872][965]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.34.01:877][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004768s)
+[2018.02.22-11.34.01:877][965]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.34.01:877][965]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2018.02.22-11.34.01:878][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.005870s)
+[2018.02.22-11.34.01:911][965]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.34.01:917][965]LogInit: FAudioDevice initialized.
+[2018.02.22-11.34.01:964][965]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.34.01:968][965]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.34.01
+[2018.02.22-11.34.01:969][965]LogWorld: Bringing up level for play took: 0.004126
+[2018.02.22-11.34.01:981][965]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.217
+[2018.02.22-11.35.53:025][825]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.35.54:594][850]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.35.54:674][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.35.54:674][850]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:35:54 PM)
+[2018.02.22-11.35.54:703][850]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.35.54:708][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004750s)
+[2018.02.22-11.35.54:709][850]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.35.54:709][850]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.02.22-11.35.54:731][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.027296s)
+[2018.02.22-11.35.54:783][850]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.35.54:791][850]LogInit: FAudioDevice initialized.
+[2018.02.22-11.35.54:842][850]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.35.54:847][850]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.35.54
+[2018.02.22-11.35.54:847][850]LogWorld: Bringing up level for play took: 0.004209
+[2018.02.22-11.35.54:859][850]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 1.095
+[2018.02.22-11.37.09:604][917]LogSavePackage: Save=124.85ms
+[2018.02.22-11.37.09:604][917]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/SpecchioF662282E4E758FFFAFE1B29CADB2928E.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap'
+[2018.02.22-11.37.09:609][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap
+[2018.02.22-11.37.12:458][  8]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.37.12:483][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.37.12:483][  8]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:37:12 PM)
+[2018.02.22-11.37.12:552][  8]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.37.12:557][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005412s)
+[2018.02.22-11.37.12:558][  8]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.37.12:559][  8]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2018.02.22-11.37.12:559][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007066s)
+[2018.02.22-11.37.12:586][  8]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.37.12:594][  8]LogInit: FAudioDevice initialized.
+[2018.02.22-11.37.12:641][  8]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.37.12:645][  8]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.37.12
+[2018.02.22-11.37.12:646][  8]LogWorld: Bringing up level for play took: 0.004099
+[2018.02.22-11.37.12:655][  8]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.89
+[2018.02.22-11.37.24:045][378]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.22-11.37.24:081][378]LogEditorActor: Deleted 1 Actors (0.225 secs)
+[2018.02.22-11.38.09:515][809]LogSavePackage: Save=116.97ms
+[2018.02.22-11.38.09:515][809]LogSavePackage: Moving '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Saved/Specchio8035BB56461E1F9C2DABBEB27D585B7D.tmp' to '../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap'
+[2018.02.22-11.38.09:551][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Edo/Documents/Unreal Projects/Idea_Mia/Content/FirstPersonBP/Maps/Specchio.umap
+[2018.02.22-11.39.44:515][921]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.39.45:775][938]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.39.45:815][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.39.45:815][938]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:39:45 PM)
+[2018.02.22-11.39.45:815][938]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.39.45:820][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004690s)
+[2018.02.22-11.39.45:821][938]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.39.45:821][938]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2018.02.22-11.39.45:822][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.006242s)
+[2018.02.22-11.39.45:851][938]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.39.45:858][938]LogInit: FAudioDevice initialized.
+[2018.02.22-11.39.45:905][938]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.39.45:910][938]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.39.45
+[2018.02.22-11.39.45:911][938]LogWorld: Bringing up level for play took: 0.004643
+[2018.02.22-11.39.45:919][938]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.155
+[2018.02.22-11.41.11:436][989]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.41.12:688][  8]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.41.12:727][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.41.12:727][  8]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:41:12 PM)
+[2018.02.22-11.41.12:727][  8]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.41.12:733][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005051s)
+[2018.02.22-11.41.12:733][  8]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.41.12:734][  8]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.02.22-11.41.12:734][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.006309s)
+[2018.02.22-11.41.12:759][  8]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.41.12:767][  8]LogInit: FAudioDevice initialized.
+[2018.02.22-11.41.12:816][  8]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.41.12:819][  8]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.41.12
+[2018.02.22-11.41.12:820][  8]LogWorld: Bringing up level for play took: 0.003549
+[2018.02.22-11.41.12:829][  8]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 1.064
+[2018.02.22-11.41.29:229][435]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.42.06:720][908]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.42.06:763][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.42.06:763][908]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:42:06 PM)
+[2018.02.22-11.42.06:763][908]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.42.06:768][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005379s)
+[2018.02.22-11.42.06:769][908]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.42.06:770][908]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2018.02.22-11.42.06:770][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007109s)
+[2018.02.22-11.42.06:800][908]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.42.06:808][908]LogInit: FAudioDevice initialized.
+[2018.02.22-11.42.06:857][908]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.42.06:862][908]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.42.06
+[2018.02.22-11.42.06:862][908]LogWorld: Bringing up level for play took: 0.004719
+[2018.02.22-11.42.06:872][908]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 1.108
+[2018.02.22-11.44.51:639][679]LogEditorViewport: Clicking on Actor (LMB): BP_Muffin_C (BP_Muffin)
+[2018.02.22-11.44.54:706][754]Cmd: DELETE
+[2018.02.22-11.44.54:706][754]Cmd: ACTOR DELETE
+[2018.02.22-11.44.55:085][754]LogEditorActor: Deleted Actor: BP_Muffin_C
+[2018.02.22-11.44.55:115][754]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.02.22-11.45.00:171][901]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.45.00:210][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.45.00:210][901]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:45:00 PM)
+[2018.02.22-11.45.00:300][901]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.45.00:305][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004954s)
+[2018.02.22-11.45.00:306][901]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.45.00:306][901]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2018.02.22-11.45.00:306][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.006668s)
+[2018.02.22-11.45.00:336][901]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.45.00:344][901]LogInit: FAudioDevice initialized.
+[2018.02.22-11.45.00:393][901]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.45.00:396][901]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.45.00
+[2018.02.22-11.45.00:397][901]LogWorld: Bringing up level for play took: 0.003638
+[2018.02.22-11.45.00:410][901]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.646
+[2018.02.22-11.45.28:202][788]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.45.28:244][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.45.28:244][788]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:45:28 PM)
+[2018.02.22-11.45.28:250][788]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.45.28:258][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007610s)
+[2018.02.22-11.45.28:259][788]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.45.28:259][788]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2018.02.22-11.45.28:259][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.009377s)
+[2018.02.22-11.45.28:300][788]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.45.28:308][788]LogInit: FAudioDevice initialized.
+[2018.02.22-11.45.28:357][788]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.45.28:361][788]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.45.28
+[2018.02.22-11.45.28:362][788]LogWorld: Bringing up level for play took: 0.004407
+[2018.02.22-11.45.28:371][788]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio 0.606
+[2018.02.22-11.48.46:482][685]BlueprintLog: New page: Compile BP_Muffin
+[2018.02.22-11.48.46:609][685]LogBlueprint: Warning: [Compiler BP_Muffin] 'ABP Muffin' does not inherit from 'Pawn' ( Cast To ABP_Muffin  would always fail).
+[2018.02.22-11.48.47:047][685]LogBlueprint: Warning: [Compiler BP_Muffin] [3329.24] Compile of BP_Muffin successful, but with 1 Warning(s) [in 512 ms] (/Game/SkywardMuffin/Characters/Muffin/BP_Muffin.BP_Muffin)
+[2018.02.22-11.48.47:517][697]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.22-11.48.47:557][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.22-11.48.47:557][697]PIE: New page: PIE session: Specchio (Feb 22, 2018, 1:48:47 PM)
+[2018.02.22-11.48.47:609][697]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio
+[2018.02.22-11.48.47:616][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006773s)
+[2018.02.22-11.48.47:616][697]LogAIModule: Creating AISystem for world Specchio
+[2018.02.22-11.48.47:617][697]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.02.22-11.48.47:617][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Specchio.Specchio to /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio (0.007999s)
+[2018.02.22-11.48.47:645][697]LogInit: XAudio2 using 'Altoparlanti (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-11.48.47:653][697]LogInit: FAudioDevice initialized.
+[2018.02.22-11.48.47:696][697]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.22-11.48.47:700][697]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio.Specchio up for play (max tick rate 60) at 2018.02.22-12.48.47
+[2018.02.22-11.48.47:700][697]LogWorld: Bringing up level for play took: 0.003671
+[2018.02.22-11.48.47:710][697]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Specchio -0.054
+[2018.02.22-11.48.49:070][727]Set new viewmode: Wireframe
+[2018.02.22-11.48.50:986][784]Set new viewmode: Wireframe
+[2018.02.22-11.48.58:763][  3]Cmd: TRANSACTION UNDO
+[2018.02.22-11.48.58:763][  3]LogEditorTransaction: Undo Delete current selection
+[2018.02.22-11.49.03:876][189]LogWindows: Windows GetLastError: Operazione completata. (0)
